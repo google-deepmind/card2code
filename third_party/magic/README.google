@@ -1,0 +1,12 @@
+URL: https://github.com/magefree/mage
+Version: 6a0554966edfa5df900bb33dddb50285b1b61fb5
+License: BSD
+License File: LICENSE
+
+Description:
+This package contains the code dataset extracted from the referenced URL.
+
+Local Modifications:
+All non-card related code was removed, and the code for each card was converted
+into a pair between the attributes of the card and code that implements that
+card.

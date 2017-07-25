@@ -1,0 +1,533 @@
+Acidic Swamp Ooze NAME_END 3 ATK_END 2 DEF_END 2 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END NIL RACE_END Common RARITY_END <b>Battlecry:</b> Destroy your opponent's weapon.
+Ancestral Healing NAME_END -1 ATK_END -1 DEF_END 0 COST_END -1 DUR_END Spell TYPE_END Shaman PLAYER_CLS_END NIL RACE_END Free RARITY_END Restore a minion to full Health and give it <b>Taunt</b>.
+Animal Companion NAME_END -1 ATK_END -1 DEF_END 3 COST_END -1 DUR_END Spell TYPE_END Hunter PLAYER_CLS_END NIL RACE_END Common RARITY_END Summon a random Beast Companion.
+Arcane Explosion NAME_END -1 ATK_END -1 DEF_END 2 COST_END -1 DUR_END Spell TYPE_END Mage PLAYER_CLS_END NIL RACE_END Free RARITY_END Deal $1 damage to all enemy minions.
+Arcane Intellect NAME_END -1 ATK_END -1 DEF_END 3 COST_END -1 DUR_END Spell TYPE_END Mage PLAYER_CLS_END NIL RACE_END Free RARITY_END Draw 2 cards.
+Arcane Missiles NAME_END -1 ATK_END -1 DEF_END 1 COST_END -1 DUR_END Spell TYPE_END Mage PLAYER_CLS_END NIL RACE_END Free RARITY_END Deal $3 damage randomly split among all enemies.
+Arcane Shot NAME_END -1 ATK_END -1 DEF_END 1 COST_END -1 DUR_END Spell TYPE_END Hunter PLAYER_CLS_END NIL RACE_END Free RARITY_END Deal $2 damage.
+Arcanite Reaper NAME_END 5 ATK_END -1 DEF_END 5 COST_END 2 DUR_END Weapon TYPE_END Warrior PLAYER_CLS_END NIL RACE_END Common RARITY_END NIL
+Assassinate NAME_END -1 ATK_END -1 DEF_END 5 COST_END -1 DUR_END Spell TYPE_END Rogue PLAYER_CLS_END NIL RACE_END Free RARITY_END Destroy an enemy minion.
+Backstab NAME_END -1 ATK_END -1 DEF_END 0 COST_END -1 DUR_END Spell TYPE_END Rogue PLAYER_CLS_END NIL RACE_END Free RARITY_END Deal $2 damage to an undamaged minion.
+Blessing of Kings NAME_END -1 ATK_END -1 DEF_END 4 COST_END -1 DUR_END Spell TYPE_END Paladin PLAYER_CLS_END NIL RACE_END Common RARITY_END Give a minion +4/+4. <i>(+4 Attack/+4 Health)</i>
+Blessing of Might NAME_END -1 ATK_END -1 DEF_END 1 COST_END -1 DUR_END Spell TYPE_END Paladin PLAYER_CLS_END NIL RACE_END Free RARITY_END Give a minion +3 Attack.
+Bloodfen Raptor NAME_END 3 ATK_END 2 DEF_END 2 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END Beast RACE_END Free RARITY_END NIL
+Bloodlust NAME_END -1 ATK_END -1 DEF_END 5 COST_END -1 DUR_END Spell TYPE_END Shaman PLAYER_CLS_END NIL RACE_END Common RARITY_END Give your minions +3 Attack this turn.
+Bluegill Warrior NAME_END 2 ATK_END 1 DEF_END 2 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END Murloc RACE_END Common RARITY_END <b>Charge</b>
+Boar NAME_END 1 ATK_END 1 DEF_END 1 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END Beast RACE_END Common RARITY_END NIL
+Charge NAME_END -1 ATK_END -1 DEF_END 3 COST_END -1 DUR_END Spell TYPE_END Warrior PLAYER_CLS_END NIL RACE_END Free RARITY_END Give a friendly minion +2 Attack and <b>Charge</b>.
+Chillwind Yeti NAME_END 4 ATK_END 5 DEF_END 4 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END NIL RACE_END Common RARITY_END NIL
+Claw NAME_END -1 ATK_END -1 DEF_END 1 COST_END -1 DUR_END Spell TYPE_END Druid PLAYER_CLS_END NIL RACE_END Free RARITY_END Give your hero +2 Attack this turn and 2 Armor.
+Cleave NAME_END -1 ATK_END -1 DEF_END 2 COST_END -1 DUR_END Spell TYPE_END Warrior PLAYER_CLS_END NIL RACE_END Common RARITY_END Deal $2 damage to two random enemy minions.
+Consecration NAME_END -1 ATK_END -1 DEF_END 4 COST_END -1 DUR_END Spell TYPE_END Paladin PLAYER_CLS_END NIL RACE_END Common RARITY_END Deal $2 damage to all enemies.
+Core Hound NAME_END 9 ATK_END 5 DEF_END 7 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END Beast RACE_END Common RARITY_END NIL
+Corruption NAME_END -1 ATK_END -1 DEF_END 1 COST_END -1 DUR_END Spell TYPE_END Warlock PLAYER_CLS_END NIL RACE_END Common RARITY_END Choose an enemy minion. At the start of your turn, destroy it.
+Dalaran Mage NAME_END 1 ATK_END 4 DEF_END 3 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END NIL RACE_END Common RARITY_END <b>Spell Damage +1</b>
+Divine Spirit NAME_END -1 ATK_END -1 DEF_END 2 COST_END -1 DUR_END Spell TYPE_END Priest PLAYER_CLS_END NIL RACE_END Common RARITY_END Double a minion's Health.
+Dragonling Mechanic NAME_END 2 ATK_END 4 DEF_END 4 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END NIL RACE_END Common RARITY_END <b>Battlecry:</b> Summon a 2/1 Mechanical Dragonling.
+Drain Life NAME_END -1 ATK_END -1 DEF_END 3 COST_END -1 DUR_END Spell TYPE_END Warlock PLAYER_CLS_END NIL RACE_END Free RARITY_END Deal $2 damage. Restore #2 Health to your hero.
+Dread Infernal NAME_END 6 ATK_END 6 DEF_END 6 COST_END -1 DUR_END Minion TYPE_END Warlock PLAYER_CLS_END Demon RACE_END Common RARITY_END <b>Battlecry:</b> Deal 1 damage to ALL other characters.
+Elven Archer NAME_END 1 ATK_END 1 DEF_END 1 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END NIL RACE_END Common RARITY_END <b>Battlecry:</b> Deal 1 damage.
+Excess Mana NAME_END -1 ATK_END -1 DEF_END 0 COST_END -1 DUR_END Spell TYPE_END Druid PLAYER_CLS_END NIL RACE_END NIL RARITY_END Draw a card. <i>(You can only have 10 Mana in your tray.)</i>
+Execute NAME_END -1 ATK_END -1 DEF_END 1 COST_END -1 DUR_END Spell TYPE_END Warrior PLAYER_CLS_END NIL RACE_END Free RARITY_END Destroy a damaged enemy minion.
+Fan of Knives NAME_END -1 ATK_END -1 DEF_END 3 COST_END -1 DUR_END Spell TYPE_END Rogue PLAYER_CLS_END NIL RACE_END Common RARITY_END Deal $1 damage to all enemy minions. Draw a card.
+Fireball NAME_END -1 ATK_END -1 DEF_END 4 COST_END -1 DUR_END Spell TYPE_END Mage PLAYER_CLS_END NIL RACE_END Free RARITY_END Deal $6 damage.
+Flamestrike NAME_END -1 ATK_END -1 DEF_END 7 COST_END -1 DUR_END Spell TYPE_END Mage PLAYER_CLS_END NIL RACE_END Common RARITY_END Deal $4 damage to all enemy minions.
+Flametongue Totem NAME_END 0 ATK_END 3 DEF_END 2 COST_END -1 DUR_END Minion TYPE_END Shaman PLAYER_CLS_END Totem RACE_END Common RARITY_END Adjacent minions have +2 Attack.
+Frog NAME_END 0 ATK_END 1 DEF_END 0 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END Beast RACE_END Common RARITY_END <b>Taunt</b>
+Frost Nova NAME_END -1 ATK_END -1 DEF_END 3 COST_END -1 DUR_END Spell TYPE_END Mage PLAYER_CLS_END NIL RACE_END Common RARITY_END <b>Freeze</b> all enemy minions.
+Frost Shock NAME_END -1 ATK_END -1 DEF_END 1 COST_END -1 DUR_END Spell TYPE_END Shaman PLAYER_CLS_END NIL RACE_END Free RARITY_END Deal $1 damage to an enemy character and <b>Freeze</b> it.
+Frostbolt NAME_END -1 ATK_END -1 DEF_END 2 COST_END -1 DUR_END Spell TYPE_END Mage PLAYER_CLS_END NIL RACE_END Common RARITY_END Deal $3 damage to a character and <b>Freeze</b> it.
+Frostwolf Grunt NAME_END 2 ATK_END 2 DEF_END 2 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END NIL RACE_END Common RARITY_END <b>Taunt</b>
+Goldshire Footman NAME_END 1 ATK_END 2 DEF_END 1 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END NIL RACE_END Common RARITY_END <b>Taunt</b>
+Grimscale Oracle NAME_END 1 ATK_END 1 DEF_END 1 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END Murloc RACE_END Common RARITY_END ALL other Murlocs have +1 Attack.
+Guardian of Kings NAME_END 5 ATK_END 6 DEF_END 7 COST_END -1 DUR_END Minion TYPE_END Paladin PLAYER_CLS_END NIL RACE_END Common RARITY_END <b>Battlecry:</b> Restore 6 Health to your hero.
+Gurubashi Berserker NAME_END 2 ATK_END 7 DEF_END 5 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END NIL RACE_END Common RARITY_END Whenever this minion takes damage, gain +3 Attack.
+Hammer of Wrath NAME_END -1 ATK_END -1 DEF_END 4 COST_END -1 DUR_END Spell TYPE_END Paladin PLAYER_CLS_END NIL RACE_END Free RARITY_END Deal $3 damage. NL Draw a card.
+Hand of Protection NAME_END -1 ATK_END -1 DEF_END 1 COST_END -1 DUR_END Spell TYPE_END Paladin PLAYER_CLS_END NIL RACE_END Free RARITY_END Give a minion <b>Divine Shield</b>.
+Healing Totem NAME_END 0 ATK_END 2 DEF_END 1 COST_END -1 DUR_END Minion TYPE_END Shaman PLAYER_CLS_END Totem RACE_END Free RARITY_END At the end of your turn, restore 1 Health to all friendly minions.
+Healing Touch NAME_END -1 ATK_END -1 DEF_END 3 COST_END -1 DUR_END Spell TYPE_END Druid PLAYER_CLS_END NIL RACE_END Free RARITY_END Restore #8 Health.
+Hex NAME_END -1 ATK_END -1 DEF_END 3 COST_END -1 DUR_END Spell TYPE_END Shaman PLAYER_CLS_END NIL RACE_END Free RARITY_END Transform a minion into a 0/1 Frog with <b>Taunt</b>.
+Holy Light NAME_END -1 ATK_END -1 DEF_END 2 COST_END -1 DUR_END Spell TYPE_END Paladin PLAYER_CLS_END NIL RACE_END Free RARITY_END Restore #6 Health.
+Holy Nova NAME_END -1 ATK_END -1 DEF_END 5 COST_END -1 DUR_END Spell TYPE_END Priest PLAYER_CLS_END NIL RACE_END Common RARITY_END Deal $2 damage to all enemies. Restore #2 Health to all friendly characters.
+Holy Smite NAME_END -1 ATK_END -1 DEF_END 1 COST_END -1 DUR_END Spell TYPE_END Priest PLAYER_CLS_END NIL RACE_END Free RARITY_END Deal $2 damage.
+Houndmaster NAME_END 4 ATK_END 3 DEF_END 4 COST_END -1 DUR_END Minion TYPE_END Hunter PLAYER_CLS_END NIL RACE_END Free RARITY_END <b>Battlecry:</b> Give a friendly Beast +2/+2 and <b>Taunt</b>.
+Huffer NAME_END 4 ATK_END 2 DEF_END 3 COST_END -1 DUR_END Minion TYPE_END Hunter PLAYER_CLS_END Beast RACE_END Common RARITY_END <b>Charge</b>
+Humility NAME_END -1 ATK_END -1 DEF_END 1 COST_END -1 DUR_END Spell TYPE_END Paladin PLAYER_CLS_END NIL RACE_END Common RARITY_END Change a minion's Attack to 1.
+Hunter's Mark NAME_END -1 ATK_END -1 DEF_END 0 COST_END -1 DUR_END Spell TYPE_END Hunter PLAYER_CLS_END NIL RACE_END Common RARITY_END Change a minion's Health to 1.
+Ironforge Rifleman NAME_END 2 ATK_END 2 DEF_END 3 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END NIL RACE_END Common RARITY_END <b>Battlecry:</b> Deal 1 damage.
+Ironfur Grizzly NAME_END 3 ATK_END 3 DEF_END 3 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END Beast RACE_END Common RARITY_END <b>Taunt</b>
+Kill Command NAME_END -1 ATK_END -1 DEF_END 3 COST_END -1 DUR_END Spell TYPE_END Hunter PLAYER_CLS_END NIL RACE_END Common RARITY_END Deal $3 damage. If you have a Beast, deal $5 damage instead.
+Kobold Geomancer NAME_END 2 ATK_END 2 DEF_END 2 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END NIL RACE_END Common RARITY_END <b>Spell Damage +1</b>
+Kor'kron Elite NAME_END 4 ATK_END 3 DEF_END 4 COST_END -1 DUR_END Minion TYPE_END Warrior PLAYER_CLS_END NIL RACE_END Common RARITY_END <b>Charge</b>
+Leokk NAME_END 2 ATK_END 4 DEF_END 3 COST_END -1 DUR_END Minion TYPE_END Hunter PLAYER_CLS_END Beast RACE_END Common RARITY_END Your other minions have +1 Attack.
+Light's Justice NAME_END 1 ATK_END -1 DEF_END 1 COST_END 4 DUR_END Weapon TYPE_END Paladin PLAYER_CLS_END NIL RACE_END Free RARITY_END NIL
+Lord of the Arena NAME_END 6 ATK_END 5 DEF_END 6 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END NIL RACE_END Common RARITY_END <b>Taunt</b>
+Mechanical Dragonling NAME_END 2 ATK_END 1 DEF_END 1 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END Mech RACE_END Common RARITY_END NIL
+Mind Blast NAME_END -1 ATK_END -1 DEF_END 2 COST_END -1 DUR_END Spell TYPE_END Priest PLAYER_CLS_END NIL RACE_END Free RARITY_END Deal $5 damage to the enemy hero.
+Mind Control NAME_END -1 ATK_END -1 DEF_END 10 COST_END -1 DUR_END Spell TYPE_END Priest PLAYER_CLS_END NIL RACE_END Common RARITY_END Take control of an enemy minion.
+Mind Vision NAME_END -1 ATK_END -1 DEF_END 1 COST_END -1 DUR_END Spell TYPE_END Priest PLAYER_CLS_END NIL RACE_END Common RARITY_END Put a copy of a random card in your opponent's hand into your hand.
+Mirror Image NAME_END 0 ATK_END 2 DEF_END 0 COST_END -1 DUR_END Minion TYPE_END Mage PLAYER_CLS_END NIL RACE_END Common RARITY_END <b>Taunt</b>
+Mirror Image NAME_END -1 ATK_END -1 DEF_END 1 COST_END -1 DUR_END Spell TYPE_END Mage PLAYER_CLS_END NIL RACE_END Common RARITY_END Summon two 0/2 minions with <b>Taunt</b>.
+Misha NAME_END 4 ATK_END 4 DEF_END 3 COST_END -1 DUR_END Minion TYPE_END Hunter PLAYER_CLS_END Beast RACE_END Common RARITY_END <b>Taunt</b>
+Moonfire NAME_END -1 ATK_END -1 DEF_END 0 COST_END -1 DUR_END Spell TYPE_END Druid PLAYER_CLS_END NIL RACE_END Common RARITY_END Deal $1 damage.
+Murloc Raider NAME_END 2 ATK_END 1 DEF_END 1 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END Murloc RACE_END Free RARITY_END NIL
+Murloc Scout NAME_END 1 ATK_END 1 DEF_END 0 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END Murloc RACE_END Common RARITY_END NIL
+Murloc Tidehunter NAME_END 2 ATK_END 1 DEF_END 2 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END Murloc RACE_END Common RARITY_END <b>Battlecry:</b> Summon a 1/1 Murloc Scout.
+Nightblade NAME_END 4 ATK_END 4 DEF_END 5 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END NIL RACE_END Free RARITY_END <b>Battlecry: </b>Deal 3 damage to the enemy hero.
+Northshire Cleric NAME_END 1 ATK_END 3 DEF_END 1 COST_END -1 DUR_END Minion TYPE_END Priest PLAYER_CLS_END NIL RACE_END Free RARITY_END Whenever a minion is healed, draw a card.
+Novice Engineer NAME_END 1 ATK_END 1 DEF_END 2 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END NIL RACE_END Free RARITY_END <b>Battlecry:</b> Draw a card.
+Oasis Snapjaw NAME_END 2 ATK_END 7 DEF_END 4 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END Beast RACE_END Free RARITY_END NIL
+Ogre Magi NAME_END 4 ATK_END 4 DEF_END 4 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END NIL RACE_END Common RARITY_END <b>Spell Damage +1</b>
+Raid Leader NAME_END 2 ATK_END 2 DEF_END 3 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END NIL RACE_END Free RARITY_END Your other minions have +1 Attack.
+Razorfen Hunter NAME_END 2 ATK_END 3 DEF_END 3 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END NIL RACE_END Common RARITY_END <b>Battlecry:</b> Summon a 1/1 Boar.
+Reckless Rocketeer NAME_END 5 ATK_END 2 DEF_END 6 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END NIL RACE_END Free RARITY_END <b>Charge</b>
+River Crocolisk NAME_END 2 ATK_END 3 DEF_END 2 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END Beast RACE_END Free RARITY_END NIL
+Rockbiter Weapon NAME_END -1 ATK_END -1 DEF_END 1 COST_END -1 DUR_END Spell TYPE_END Shaman PLAYER_CLS_END NIL RACE_END Free RARITY_END Give a friendly character +3 Attack this turn.
+Sacrificial Pact NAME_END -1 ATK_END -1 DEF_END 0 COST_END -1 DUR_END Spell TYPE_END Warlock PLAYER_CLS_END NIL RACE_END Common RARITY_END Destroy a Demon. Restore #5 Health to your hero.
+Sap NAME_END -1 ATK_END -1 DEF_END 2 COST_END -1 DUR_END Spell TYPE_END Rogue PLAYER_CLS_END NIL RACE_END Free RARITY_END Return an enemy minion to your opponent's hand.
+Savage Roar NAME_END -1 ATK_END -1 DEF_END 3 COST_END -1 DUR_END Spell TYPE_END Druid PLAYER_CLS_END NIL RACE_END Common RARITY_END Give your characters +2 Attack this turn.
+Shadow Bolt NAME_END -1 ATK_END -1 DEF_END 3 COST_END -1 DUR_END Spell TYPE_END Warlock PLAYER_CLS_END NIL RACE_END Free RARITY_END Deal $4 damage to a minion.
+Shadow Word: Death NAME_END -1 ATK_END -1 DEF_END 3 COST_END -1 DUR_END Spell TYPE_END Priest PLAYER_CLS_END NIL RACE_END Common RARITY_END Destroy a minion with an Attack of 5 or more.
+Shadow Word: Pain NAME_END -1 ATK_END -1 DEF_END 2 COST_END -1 DUR_END Spell TYPE_END Priest PLAYER_CLS_END NIL RACE_END Free RARITY_END Destroy a minion with 3 or less Attack.
+Shattered Sun Cleric NAME_END 3 ATK_END 2 DEF_END 3 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END NIL RACE_END Common RARITY_END <b>Battlecry:</b> Give a friendly minion +1/+1.
+Sheep NAME_END 1 ATK_END 1 DEF_END 0 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END Beast RACE_END Common RARITY_END NIL
+Shield Block NAME_END -1 ATK_END -1 DEF_END 3 COST_END -1 DUR_END Spell TYPE_END Warrior PLAYER_CLS_END NIL RACE_END Common RARITY_END Gain 5 Armor. NL Draw a card.
+Shiv NAME_END -1 ATK_END -1 DEF_END 2 COST_END -1 DUR_END Spell TYPE_END Rogue PLAYER_CLS_END NIL RACE_END Common RARITY_END Deal $1 damage. Draw a card.
+Silver Hand Recruit NAME_END 1 ATK_END 1 DEF_END 1 COST_END -1 DUR_END Minion TYPE_END Paladin PLAYER_CLS_END NIL RACE_END Free RARITY_END NIL
+Soulfire NAME_END -1 ATK_END -1 DEF_END 1 COST_END -1 DUR_END Spell TYPE_END Warlock PLAYER_CLS_END NIL RACE_END Common RARITY_END Deal $4 damage. Discard a random card.
+Sprint NAME_END -1 ATK_END -1 DEF_END 7 COST_END -1 DUR_END Spell TYPE_END Rogue PLAYER_CLS_END NIL RACE_END Common RARITY_END Draw 4 cards.
+Starfire NAME_END -1 ATK_END -1 DEF_END 6 COST_END -1 DUR_END Spell TYPE_END Druid PLAYER_CLS_END NIL RACE_END Common RARITY_END Deal $5 damage. NL Draw a card.
+Starving Buzzard NAME_END 3 ATK_END 2 DEF_END 5 COST_END -1 DUR_END Minion TYPE_END Hunter PLAYER_CLS_END Beast RACE_END Common RARITY_END Whenever you summon a Beast, draw a card.
+Stoneclaw Totem NAME_END 0 ATK_END 2 DEF_END 1 COST_END -1 DUR_END Minion TYPE_END Shaman PLAYER_CLS_END Totem RACE_END Free RARITY_END <b>Taunt</b>
+Stonetusk Boar NAME_END 1 ATK_END 1 DEF_END 1 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END Beast RACE_END Free RARITY_END <b>Charge</b>
+Stormpike Commando NAME_END 4 ATK_END 2 DEF_END 5 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END NIL RACE_END Common RARITY_END <b>Battlecry:</b> Deal 2 damage.
+Stormwind Champion NAME_END 6 ATK_END 6 DEF_END 7 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END NIL RACE_END Common RARITY_END Your other minions have +1/+1.
+Swipe NAME_END -1 ATK_END -1 DEF_END 4 COST_END -1 DUR_END Spell TYPE_END Druid PLAYER_CLS_END NIL RACE_END Common RARITY_END Deal $4 damage to an enemy and $1 damage to all other enemies.
+Timber Wolf NAME_END 1 ATK_END 1 DEF_END 1 COST_END -1 DUR_END Minion TYPE_END Hunter PLAYER_CLS_END Beast RACE_END Free RARITY_END Your other Beasts have +1 Attack.
+Totemic Might NAME_END -1 ATK_END -1 DEF_END 0 COST_END -1 DUR_END Spell TYPE_END Shaman PLAYER_CLS_END NIL RACE_END Common RARITY_END Give your Totems +2 Health.
+Tracking NAME_END -1 ATK_END -1 DEF_END 1 COST_END -1 DUR_END Spell TYPE_END Hunter PLAYER_CLS_END NIL RACE_END Free RARITY_END Look at the top three cards of your deck. Draw one and discard the others.
+Truesilver Champion NAME_END 4 ATK_END -1 DEF_END 4 COST_END 2 DUR_END Weapon TYPE_END Paladin PLAYER_CLS_END NIL RACE_END Common RARITY_END Whenever your hero attacks, restore 2 Health to it.
+Tundra Rhino NAME_END 2 ATK_END 5 DEF_END 5 COST_END -1 DUR_END Minion TYPE_END Hunter PLAYER_CLS_END Beast RACE_END Common RARITY_END Your Beasts have <b>Charge</b>.
+Vanish NAME_END -1 ATK_END -1 DEF_END 6 COST_END -1 DUR_END Spell TYPE_END Rogue PLAYER_CLS_END NIL RACE_END Common RARITY_END Return all minions to their owner's hand.
+Voidwalker NAME_END 1 ATK_END 3 DEF_END 1 COST_END -1 DUR_END Minion TYPE_END Warlock PLAYER_CLS_END Demon RACE_END Free RARITY_END <b>Taunt</b>
+Warsong Commander NAME_END 2 ATK_END 3 DEF_END 3 COST_END -1 DUR_END Minion TYPE_END Warrior PLAYER_CLS_END NIL RACE_END Free RARITY_END Whenever you summon a minion with 3 or less Attack, give it <b>Charge</b>.
+Water Elemental NAME_END 3 ATK_END 6 DEF_END 4 COST_END -1 DUR_END Minion TYPE_END Mage PLAYER_CLS_END NIL RACE_END Common RARITY_END <b>Freeze</b> any character damaged by this minion.
+Whirlwind NAME_END -1 ATK_END -1 DEF_END 1 COST_END -1 DUR_END Spell TYPE_END Warrior PLAYER_CLS_END NIL RACE_END Common RARITY_END Deal $1 damage to ALL minions.
+Wicked Knife NAME_END 1 ATK_END -1 DEF_END 1 COST_END 2 DUR_END Weapon TYPE_END Rogue PLAYER_CLS_END NIL RACE_END Free RARITY_END NIL
+Wild Growth NAME_END -1 ATK_END -1 DEF_END 2 COST_END -1 DUR_END Spell TYPE_END Druid PLAYER_CLS_END NIL RACE_END Free RARITY_END Gain an empty Mana Crystal.
+Windfury NAME_END -1 ATK_END -1 DEF_END 2 COST_END -1 DUR_END Spell TYPE_END Shaman PLAYER_CLS_END NIL RACE_END Free RARITY_END Give a minion <b>Windfury</b>.
+Windspeaker NAME_END 3 ATK_END 3 DEF_END 4 COST_END -1 DUR_END Minion TYPE_END Shaman PLAYER_CLS_END NIL RACE_END Common RARITY_END <b>Battlecry:</b> Give a friendly minion <b>Windfury</b>.
+Wolfrider NAME_END 3 ATK_END 1 DEF_END 3 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END NIL RACE_END Free RARITY_END <b>Charge</b>
+Alexstrasza's Champion NAME_END 2 ATK_END 3 DEF_END 2 COST_END -1 DUR_END Minion TYPE_END Warrior PLAYER_CLS_END NIL RACE_END Rare RARITY_END <b>Battlecry:</b> If you're holding a Dragon, gain +1 Attack and <b>Charge</b>.
+Ancestral Knowledge NAME_END -1 ATK_END -1 DEF_END 2 COST_END -1 DUR_END Spell TYPE_END Shaman PLAYER_CLS_END NIL RACE_END Common RARITY_END Draw 2 cards. <b>Overload: (2)</b>
+Anub'arak NAME_END 8 ATK_END 4 DEF_END 9 COST_END -1 DUR_END Minion TYPE_END Rogue PLAYER_CLS_END NIL RACE_END Legendary RARITY_END <b>Deathrattle:</b> Return this to your hand and summon a 4/4 Nerubian.
+Arcane Blast NAME_END -1 ATK_END -1 DEF_END 1 COST_END -1 DUR_END Spell TYPE_END Mage PLAYER_CLS_END NIL RACE_END Epic RARITY_END Deal $2 damage to a minion. This spell gets double bonus from <b>Spell Damage</b>.
+Argent Horserider NAME_END 2 ATK_END 1 DEF_END 3 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END NIL RACE_END Common RARITY_END <b>Charge</b> NL <b>Divine Shield</b>
+Argent Lance NAME_END 2 ATK_END -1 DEF_END 2 COST_END 2 DUR_END Weapon TYPE_END Paladin PLAYER_CLS_END NIL RACE_END Rare RARITY_END <b>Battlecry:</b> Reveal a minion in each deck. If yours costs more, +1 Durability.
+Argent Watchman NAME_END 2 ATK_END 4 DEF_END 2 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END NIL RACE_END Rare RARITY_END Can't attack. NL <b>Inspire:</b> Can attack as normal this turn.
+Armored Warhorse NAME_END 5 ATK_END 3 DEF_END 4 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END Beast RACE_END Rare RARITY_END <b>Battlecry:</b> Reveal a minion in each deck. If yours costs more, gain <b>Charge</b>.
+Healing Totem NAME_END 0 ATK_END 2 DEF_END 0 COST_END -1 DUR_END Minion TYPE_END Shaman PLAYER_CLS_END NIL RACE_END NIL RARITY_END At the end of your turn, restore 1 Health to all friendly minions.
+Nerubian NAME_END 4 ATK_END 4 DEF_END 3 COST_END -1 DUR_END Minion TYPE_END Rogue PLAYER_CLS_END NIL RACE_END NIL RARITY_END NIL
+Searing Totem NAME_END 1 ATK_END 1 DEF_END 0 COST_END -1 DUR_END Minion TYPE_END Shaman PLAYER_CLS_END NIL RACE_END NIL RARITY_END NIL
+Stoneclaw Totem NAME_END 0 ATK_END 2 DEF_END 0 COST_END -1 DUR_END Minion TYPE_END Shaman PLAYER_CLS_END NIL RACE_END NIL RARITY_END <b>Taunt</b>
+Tournament Medic NAME_END 1 ATK_END 8 DEF_END 4 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END NIL RACE_END Common RARITY_END <b>Inspire:</b> Restore 2 Health to your hero.
+Wrath of Air Totem NAME_END 0 ATK_END 2 DEF_END 0 COST_END -1 DUR_END Minion TYPE_END Shaman PLAYER_CLS_END NIL RACE_END NIL RARITY_END <b>Spell Damage +1</b>
+Ancestor's Call NAME_END -1 ATK_END -1 DEF_END 4 COST_END -1 DUR_END Spell TYPE_END Shaman PLAYER_CLS_END NIL RACE_END Epic RARITY_END Put a random minion from each player's hand into the battlefield.
+Anima Golem NAME_END 9 ATK_END 9 DEF_END 6 COST_END -1 DUR_END Minion TYPE_END Warlock PLAYER_CLS_END Mech RACE_END Epic RARITY_END At the end of each turn, destroy this minion if it's your only one.
+Antique Healbot NAME_END 3 ATK_END 3 DEF_END 5 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END Mech RACE_END Common RARITY_END <b>Battlecry:</b> Restore 8 Health to your hero.
+Arcane Nullifier X-21 NAME_END 2 ATK_END 5 DEF_END 4 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END Mech RACE_END Rare RARITY_END <b>Taunt</b> NL Can't be targeted by spells or Hero Powers.
+Armor Plating NAME_END -1 ATK_END -1 DEF_END 1 COST_END -1 DUR_END Spell TYPE_END Neutral PLAYER_CLS_END NIL RACE_END NIL RARITY_END Give a minion +1 Health.
+Blingtron 3000 NAME_END 3 ATK_END 4 DEF_END 5 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END Mech RACE_END Legendary RARITY_END <b>Battlecry:</b> Equip a random weapon for each player.
+Bolvar Fordragon NAME_END 1 ATK_END 7 DEF_END 5 COST_END -1 DUR_END Minion TYPE_END Paladin PLAYER_CLS_END NIL RACE_END Legendary RARITY_END Whenever a friendly minion dies while this is in your hand, gain +1 Attack.
+Bomb Lobber NAME_END 3 ATK_END 3 DEF_END 5 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END NIL RACE_END Rare RARITY_END <b>Battlecry:</b> Deal 4 damage to a random enemy minion.
+Boom Bot NAME_END 1 ATK_END 1 DEF_END 1 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END Mech RACE_END NIL RARITY_END <b>Deathrattle</b>: Deal 1-4 damage to a random enemy.
+Bouncing Blade NAME_END -1 ATK_END -1 DEF_END 3 COST_END -1 DUR_END Spell TYPE_END Warrior PLAYER_CLS_END NIL RACE_END Epic RARITY_END Deal $1 damage to a random minion. Repeat until a minion dies.
+Call Pet NAME_END -1 ATK_END -1 DEF_END 2 COST_END -1 DUR_END Spell TYPE_END Hunter PLAYER_CLS_END NIL RACE_END Rare RARITY_END Draw a card. NL If it's a Beast, it costs (4) less.
+Chicken NAME_END 1 ATK_END 1 DEF_END 1 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END Beast RACE_END NIL RARITY_END NIL
+Clockwork Giant NAME_END 8 ATK_END 8 DEF_END 12 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END Mech RACE_END Epic RARITY_END Costs (1) less for each card in your opponent's hand.
+Clockwork Gnome NAME_END 2 ATK_END 1 DEF_END 1 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END Mech RACE_END Common RARITY_END <b>Deathrattle:</b> Add a <b>Spare Part</b> card to your hand.
+Cobalt Guardian NAME_END 6 ATK_END 3 DEF_END 5 COST_END -1 DUR_END Minion TYPE_END Paladin PLAYER_CLS_END Mech RACE_END Rare RARITY_END Whenever you summon a Mech, gain <b>Divine Shield</b>.
+Cobra Shot NAME_END -1 ATK_END -1 DEF_END 5 COST_END -1 DUR_END Spell TYPE_END Hunter PLAYER_CLS_END NIL RACE_END Common RARITY_END Deal $3 damage to a minion and the enemy hero.
+Coghammer NAME_END 2 ATK_END -1 DEF_END 3 COST_END 3 DUR_END Weapon TYPE_END Paladin PLAYER_CLS_END NIL RACE_END Epic RARITY_END <b>Battlecry:</b> Give a random friendly minion <b>Divine Shield</b> and <b>Taunt</b>.
+Cogmaster NAME_END 1 ATK_END 2 DEF_END 1 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END NIL RACE_END Common RARITY_END Has +2 Attack while you have a Mech.
+Crush NAME_END -1 ATK_END -1 DEF_END 7 COST_END -1 DUR_END Spell TYPE_END Warrior PLAYER_CLS_END NIL RACE_END Epic RARITY_END Destroy a minion. If you have a damaged minion, this costs (4) less.
+Dark Wispers NAME_END -1 ATK_END -1 DEF_END 6 COST_END -1 DUR_END Spell TYPE_END Druid PLAYER_CLS_END NIL RACE_END Epic RARITY_END <b>Choose One -</b> Summon 5 Wisps; or Give a minion +5/+5 and <b>Taunt</b>.
+Darkbomb NAME_END -1 ATK_END -1 DEF_END 2 COST_END -1 DUR_END Spell TYPE_END Warlock PLAYER_CLS_END NIL RACE_END Common RARITY_END Deal $3 damage.
+Demonheart NAME_END -1 ATK_END -1 DEF_END 5 COST_END -1 DUR_END Spell TYPE_END Warlock PLAYER_CLS_END NIL RACE_END Epic RARITY_END Deal $5 damage to a minion. If it's a friendly Demon, give it +5/+5 instead.
+Dr. Boom NAME_END 7 ATK_END 7 DEF_END 7 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END NIL RACE_END Legendary RARITY_END <b>Battlecry</b>: Summon two 1/1 Boom Bots. <i>WARNING: Bots may explode.</i>
+Druid of the Fang NAME_END 7 ATK_END 7 DEF_END 5 COST_END -1 DUR_END Minion TYPE_END Druid PLAYER_CLS_END Beast RACE_END NIL RARITY_END NIL
+Druid of the Fang NAME_END 4 ATK_END 4 DEF_END 5 COST_END -1 DUR_END Minion TYPE_END Druid PLAYER_CLS_END NIL RACE_END Common RARITY_END <b>Battlecry:</b> If you have a Beast, transform this minion into a 7/7.
+Dunemaul Shaman NAME_END 5 ATK_END 4 DEF_END 4 COST_END -1 DUR_END Minion TYPE_END Shaman PLAYER_CLS_END NIL RACE_END Rare RARITY_END <b>Windfury, Overload: (1)</b> NL 50% chance to attack the wrong enemy.
+Enhance-o Mechano NAME_END 3 ATK_END 2 DEF_END 4 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END Mech RACE_END Epic RARITY_END <b>Battlecry:</b> Give your other minions <b>Windfury</b>, <b>Taunt</b>, or <b>Divine Shield</b>. NL <i>(at random)</i>
+Explosive Sheep NAME_END 1 ATK_END 1 DEF_END 2 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END Mech RACE_END Common RARITY_END <b>Deathrattle:</b> Deal 2 damage to all minions.
+Feign Death NAME_END -1 ATK_END -1 DEF_END 2 COST_END -1 DUR_END Spell TYPE_END Hunter PLAYER_CLS_END NIL RACE_END Epic RARITY_END Trigger all <b>Deathrattles</b> on your minions.
+Fel Cannon NAME_END 3 ATK_END 5 DEF_END 4 COST_END -1 DUR_END Minion TYPE_END Warlock PLAYER_CLS_END Mech RACE_END Rare RARITY_END At the end of your turn, deal 2 damage to a non-Mech minion.
+Fel Reaver NAME_END 8 ATK_END 8 DEF_END 5 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END Mech RACE_END Epic RARITY_END Whenever your opponent plays a card, remove the top 3 cards of your deck.
+Finicky Cloakfield NAME_END -1 ATK_END -1 DEF_END 1 COST_END -1 DUR_END Spell TYPE_END Neutral PLAYER_CLS_END NIL RACE_END NIL RARITY_END Give a friendly minion <b>Stealth</b> until your next turn.
+Flame Leviathan NAME_END 7 ATK_END 7 DEF_END 7 COST_END -1 DUR_END Minion TYPE_END Mage PLAYER_CLS_END Mech RACE_END Legendary RARITY_END When you draw this, deal 2 damage to all characters.
+Flamecannon NAME_END -1 ATK_END -1 DEF_END 2 COST_END -1 DUR_END Spell TYPE_END Mage PLAYER_CLS_END NIL RACE_END Common RARITY_END Deal $4 damage to a random enemy minion.
+Foe Reaper 4000 NAME_END 6 ATK_END 9 DEF_END 8 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END Mech RACE_END Legendary RARITY_END Also damages the minions next to whomever he attacks.
+Force-Tank MAX NAME_END 7 ATK_END 7 DEF_END 8 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END Mech RACE_END Common RARITY_END <b>Divine Shield</b>
+Gahz'rilla NAME_END 6 ATK_END 9 DEF_END 7 COST_END -1 DUR_END Minion TYPE_END Hunter PLAYER_CLS_END Beast RACE_END Legendary RARITY_END Whenever this minion takes damage, double its Attack.
+Gallywix's Coin NAME_END -1 ATK_END -1 DEF_END 0 COST_END -1 DUR_END Spell TYPE_END Neutral PLAYER_CLS_END NIL RACE_END NIL RARITY_END Gain 1 Mana Crystal this turn only. NL <i>(Won't trigger Gallywix.)</i>
+Gazlowe NAME_END 3 ATK_END 6 DEF_END 6 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END NIL RACE_END Legendary RARITY_END Whenever you cast a 1-mana spell, add a random Mech to your hand.
+Gilblin Stalker NAME_END 2 ATK_END 3 DEF_END 2 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END NIL RACE_END Common RARITY_END <b>Stealth</b>
+Glaivezooka NAME_END 2 ATK_END -1 DEF_END 2 COST_END 2 DUR_END Weapon TYPE_END Hunter PLAYER_CLS_END NIL RACE_END Common RARITY_END <b>Battlecry:</b> Give a random friendly minion +1 Attack.
+Gnomeregan Infantry NAME_END 1 ATK_END 4 DEF_END 3 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END NIL RACE_END Common RARITY_END <b>Charge</b> NL <b>Taunt</b>
+Goblin Blastmage NAME_END 5 ATK_END 4 DEF_END 4 COST_END -1 DUR_END Minion TYPE_END Mage PLAYER_CLS_END NIL RACE_END Rare RARITY_END <b>Battlecry:</b> If you have a Mech, deal 4 damage randomly split among all enemies.
+Goblin Sapper NAME_END 2 ATK_END 4 DEF_END 3 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END NIL RACE_END Rare RARITY_END Has +4 Attack while your opponent has 6 or more cards in hand.
+Grove Tender NAME_END 2 ATK_END 4 DEF_END 3 COST_END -1 DUR_END Minion TYPE_END Druid PLAYER_CLS_END NIL RACE_END Rare RARITY_END <b>Choose One -</b> Give each player a Mana Crystal; or Each player draws a card.
+Hemet Nesingwary NAME_END 6 ATK_END 3 DEF_END 5 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END NIL RACE_END Legendary RARITY_END <b>Battlecry:</b> Destroy a Beast.
+Hobgoblin NAME_END 2 ATK_END 3 DEF_END 3 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END NIL RACE_END Epic RARITY_END Whenever you play a 1-Attack minion, give it +2/+2.
+Illuminator NAME_END 2 ATK_END 4 DEF_END 3 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END NIL RACE_END Rare RARITY_END If you control a <b>Secret</b> at the end of your turn, restore 4 health to your hero.
+Imp NAME_END 1 ATK_END 1 DEF_END 1 COST_END -1 DUR_END Minion TYPE_END Warlock PLAYER_CLS_END Demon RACE_END NIL RARITY_END NIL
+Imp-losion NAME_END -1 ATK_END -1 DEF_END 4 COST_END -1 DUR_END Spell TYPE_END Warlock PLAYER_CLS_END NIL RACE_END Rare RARITY_END Deal $2-$4 damage to a minion. Summon a 1/1 Imp for each damage dealt.
+Jeeves NAME_END 1 ATK_END 4 DEF_END 4 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END Mech RACE_END Rare RARITY_END At the end of each player's turn, that player draws until they have 3 cards.
+Junkbot NAME_END 1 ATK_END 5 DEF_END 5 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END Mech RACE_END Epic RARITY_END Whenever a friendly Mech dies, gain +2/+2.
+Kezan Mystic NAME_END 4 ATK_END 3 DEF_END 4 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END NIL RACE_END Rare RARITY_END <b>Battlecry:</b> Take control of a random enemy <b>Secret</b>.
+King of Beasts NAME_END 2 ATK_END 6 DEF_END 5 COST_END -1 DUR_END Minion TYPE_END Hunter PLAYER_CLS_END Beast RACE_END Rare RARITY_END <b>Taunt</b>. <b>Battlecry:</b> Gain +1 Attack for each other Beast you have.
+Light of the Naaru NAME_END -1 ATK_END -1 DEF_END 1 COST_END -1 DUR_END Spell TYPE_END Priest PLAYER_CLS_END NIL RACE_END Rare RARITY_END Restore #3 Health. If the target is still damaged, summon a Lightwarden.
+Lightbomb NAME_END -1 ATK_END -1 DEF_END 6 COST_END -1 DUR_END Spell TYPE_END Priest PLAYER_CLS_END NIL RACE_END Epic RARITY_END Deal damage to each minion equal to its Attack.
+Lil' Exorcist NAME_END 2 ATK_END 3 DEF_END 3 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END NIL RACE_END Rare RARITY_END <b>Taunt</b> NL <b>Battlecry:</b> Gain +1/+1 for each enemy <b>Deathrattle</b> minion.
+Lost Tallstrider NAME_END 5 ATK_END 4 DEF_END 4 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END Beast RACE_END Common RARITY_END NIL
+Malorne NAME_END 9 ATK_END 7 DEF_END 7 COST_END -1 DUR_END Minion TYPE_END Druid PLAYER_CLS_END Beast RACE_END Legendary RARITY_END <b>Deathrattle:</b> Shuffle this minion into your deck.
+Mech-Bear-Cat NAME_END 7 ATK_END 6 DEF_END 6 COST_END -1 DUR_END Minion TYPE_END Druid PLAYER_CLS_END Mech RACE_END Rare RARITY_END Whenever this minion takes damage, add a <b>Spare Part</b> card to your hand.
+Mechanical Yeti NAME_END 4 ATK_END 5 DEF_END 4 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END Mech RACE_END Common RARITY_END <b>Deathrattle:</b> Give each player a <b>Spare Part.</b>
+Mechwarper NAME_END 2 ATK_END 3 DEF_END 2 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END Mech RACE_END Common RARITY_END Your Mechs cost (1) less.
+Mekgineer Thermaplugg NAME_END 9 ATK_END 7 DEF_END 9 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END Mech RACE_END Legendary RARITY_END Whenever an enemy minion dies, summon a Leper Gnome.
+Metaltooth Leaper NAME_END 3 ATK_END 3 DEF_END 3 COST_END -1 DUR_END Minion TYPE_END Hunter PLAYER_CLS_END Mech RACE_END Rare RARITY_END <b>Battlecry</b>: Give your other Mechs +2 Attack.
+Micro Machine NAME_END 1 ATK_END 2 DEF_END 2 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END Mech RACE_END Common RARITY_END At the start of each turn, gain +1 Attack.
+Mimiron's Head NAME_END 4 ATK_END 5 DEF_END 5 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END Mech RACE_END Legendary RARITY_END At the start of your turn, if you have at least 3 Mechs, destroy them all and form V-07-TR-0N.
+Mogor the Ogre NAME_END 7 ATK_END 6 DEF_END 6 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END NIL RACE_END Legendary RARITY_END All minions have a 50% chance to attack the wrong enemy.
+Muster for Battle NAME_END -1 ATK_END -1 DEF_END 3 COST_END -1 DUR_END Spell TYPE_END Paladin PLAYER_CLS_END NIL RACE_END Rare RARITY_END Summon three 1/1 Silver Hand Recruits. Equip a 1/4 Weapon.
+Neptulon NAME_END 7 ATK_END 7 DEF_END 7 COST_END -1 DUR_END Minion TYPE_END Shaman PLAYER_CLS_END NIL RACE_END Legendary RARITY_END <b>Battlecry:</b> Add 4 random Murlocs to your hand. <b>Overload:</b> (3)
+Ogre Brute NAME_END 4 ATK_END 4 DEF_END 3 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END NIL RACE_END Common RARITY_END 50% chance to attack the wrong enemy.
+Ogre Ninja NAME_END 6 ATK_END 6 DEF_END 5 COST_END -1 DUR_END Minion TYPE_END Rogue PLAYER_CLS_END NIL RACE_END Rare RARITY_END <b>Stealth</b> NL 50% chance to attack the wrong enemy.
+Ogre Warmaul NAME_END 4 ATK_END -1 DEF_END 3 COST_END 2 DUR_END Weapon TYPE_END Warrior PLAYER_CLS_END NIL RACE_END Common RARITY_END 50% chance to attack the wrong enemy.
+One-eyed Cheat NAME_END 4 ATK_END 1 DEF_END 2 COST_END -1 DUR_END Minion TYPE_END Rogue PLAYER_CLS_END Pirate RACE_END Rare RARITY_END Whenever you summon a Pirate, gain <b>Stealth</b>.
+Piloted Shredder NAME_END 4 ATK_END 3 DEF_END 4 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END Mech RACE_END Common RARITY_END <b>Deathrattle:</b> Summon a random 2-Cost minion.
+Puddlestomper NAME_END 3 ATK_END 2 DEF_END 2 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END Murloc RACE_END Common RARITY_END NIL
+Quartermaster NAME_END 2 ATK_END 5 DEF_END 5 COST_END -1 DUR_END Minion TYPE_END Paladin PLAYER_CLS_END NIL RACE_END Epic RARITY_END <b>Battlecry:</b> Give your Silver Hand Recruits +2/+2.
+Recombobulator NAME_END 3 ATK_END 2 DEF_END 2 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END NIL RACE_END Epic RARITY_END <b>Battlecry:</b> Transform a friendly minion into a random minion with the same Cost.
+Recycle NAME_END -1 ATK_END -1 DEF_END 6 COST_END -1 DUR_END Spell TYPE_END Druid PLAYER_CLS_END NIL RACE_END Rare RARITY_END Shuffle an enemy minion into your opponent's deck.
+Reversing Switch NAME_END -1 ATK_END -1 DEF_END 1 COST_END -1 DUR_END Spell TYPE_END Neutral PLAYER_CLS_END NIL RACE_END NIL RARITY_END Swap a minion's Attack and Health.
+Rusty Horn NAME_END -1 ATK_END -1 DEF_END 1 COST_END -1 DUR_END Spell TYPE_END Neutral PLAYER_CLS_END NIL RACE_END NIL RARITY_END Give a minion <b>Taunt</b>.
+Sabotage NAME_END -1 ATK_END -1 DEF_END 4 COST_END -1 DUR_END Spell TYPE_END Rogue PLAYER_CLS_END NIL RACE_END Epic RARITY_END Destroy a random enemy minion. <b>Combo</b>: And your opponent's weapon.
+Salty Dog NAME_END 7 ATK_END 4 DEF_END 5 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END Pirate RACE_END Common RARITY_END NIL
+Seal of Light NAME_END -1 ATK_END -1 DEF_END 2 COST_END -1 DUR_END Spell TYPE_END Paladin PLAYER_CLS_END NIL RACE_END Common RARITY_END Restore #4 Health to your hero and gain +2 Attack this turn.
+Shadowbomber NAME_END 2 ATK_END 1 DEF_END 1 COST_END -1 DUR_END Minion TYPE_END Priest PLAYER_CLS_END NIL RACE_END Epic RARITY_END <b>Battlecry:</b> Deal 3 damage to each hero.
+Shadowboxer NAME_END 2 ATK_END 3 DEF_END 2 COST_END -1 DUR_END Minion TYPE_END Priest PLAYER_CLS_END Mech RACE_END Rare RARITY_END Whenever a character is healed, deal 1 damage to a random enemy.
+Shielded Minibot NAME_END 2 ATK_END 2 DEF_END 2 COST_END -1 DUR_END Minion TYPE_END Paladin PLAYER_CLS_END Mech RACE_END Common RARITY_END <b>Divine Shield</b>
+Shieldmaiden NAME_END 5 ATK_END 5 DEF_END 6 COST_END -1 DUR_END Minion TYPE_END Warrior PLAYER_CLS_END NIL RACE_END Rare RARITY_END <b>Battlecry:</b> Gain 5 Armor.
+Ship's Cannon NAME_END 2 ATK_END 3 DEF_END 2 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END NIL RACE_END Common RARITY_END Whenever you summon a Pirate, deal 2 damage to a random enemy.
+Shrinkmeister NAME_END 3 ATK_END 2 DEF_END 2 COST_END -1 DUR_END Minion TYPE_END Priest PLAYER_CLS_END NIL RACE_END Common RARITY_END <b>Battlecry:</b> Give a minion -2 Attack this turn.
+Siege Engine NAME_END 5 ATK_END 5 DEF_END 5 COST_END -1 DUR_END Minion TYPE_END Warrior PLAYER_CLS_END Mech RACE_END Rare RARITY_END Whenever you gain Armor, give this minion +1 Attack.
+Snowchugger NAME_END 2 ATK_END 3 DEF_END 2 COST_END -1 DUR_END Minion TYPE_END Mage PLAYER_CLS_END Mech RACE_END Common RARITY_END <b>Freeze</b> any character damaged by this minion.
+Soot Spewer NAME_END 3 ATK_END 3 DEF_END 3 COST_END -1 DUR_END Minion TYPE_END Mage PLAYER_CLS_END Mech RACE_END Rare RARITY_END <b>Spell Damage +1</b>
+Spider Tank NAME_END 3 ATK_END 4 DEF_END 3 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END Mech RACE_END Common RARITY_END NIL
+Steamwheedle Sniper NAME_END 2 ATK_END 3 DEF_END 2 COST_END -1 DUR_END Minion TYPE_END Hunter PLAYER_CLS_END NIL RACE_END Epic RARITY_END Your Hero Power can target minions.
+Stonesplinter Trogg NAME_END 2 ATK_END 3 DEF_END 2 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END NIL RACE_END Common RARITY_END Whenever your opponent casts a spell, gain +1 Attack.
+Target Dummy NAME_END 0 ATK_END 2 DEF_END 0 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END Mech RACE_END Rare RARITY_END <b>Taunt</b>
+Time Rewinder NAME_END -1 ATK_END -1 DEF_END 1 COST_END -1 DUR_END Spell TYPE_END Neutral PLAYER_CLS_END NIL RACE_END NIL RARITY_END Return a friendly minion to your hand.
+Tinker's Sharpsword Oil NAME_END -1 ATK_END -1 DEF_END 4 COST_END -1 DUR_END Spell TYPE_END Rogue PLAYER_CLS_END NIL RACE_END Common RARITY_END Give your weapon +3 Attack. <b>Combo:</b> Give a random friendly minion +3 Attack.
+Trade Prince Gallywix NAME_END 5 ATK_END 8 DEF_END 6 COST_END -1 DUR_END Minion TYPE_END Rogue PLAYER_CLS_END NIL RACE_END Legendary RARITY_END Whenever your opponent casts a spell, gain a copy of it and give them a Coin.
+Tree of Life NAME_END -1 ATK_END -1 DEF_END 9 COST_END -1 DUR_END Spell TYPE_END Druid PLAYER_CLS_END NIL RACE_END Epic RARITY_END Restore all characters to full Health.
+Troggzor the Earthinator NAME_END 6 ATK_END 6 DEF_END 7 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END NIL RACE_END Legendary RARITY_END Whenever your opponent casts a spell, summon a Burly Rockjaw Trogg.
+Unstable Portal NAME_END -1 ATK_END -1 DEF_END 2 COST_END -1 DUR_END Spell TYPE_END Mage PLAYER_CLS_END NIL RACE_END Rare RARITY_END Add a random minion to your hand. It costs (3) less.
+Upgraded Repair Bot NAME_END 5 ATK_END 5 DEF_END 5 COST_END -1 DUR_END Minion TYPE_END Priest PLAYER_CLS_END Mech RACE_END Rare RARITY_END <b>Battlecry:</b> Give a friendly Mech +4 Health.
+V-07-TR-0N NAME_END 4 ATK_END 8 DEF_END 8 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END Mech RACE_END Legendary RARITY_END <b>Charge</b> NL <b>Mega-Windfury</b> <i>(Can attack four times a turn.)</i>
+Velen's Chosen NAME_END -1 ATK_END -1 DEF_END 3 COST_END -1 DUR_END Spell TYPE_END Priest PLAYER_CLS_END NIL RACE_END Common RARITY_END Give a minion +2/+4 and <b>Spell Damage +1</b>.
+Vitality Totem NAME_END 0 ATK_END 3 DEF_END 2 COST_END -1 DUR_END Minion TYPE_END Shaman PLAYER_CLS_END Totem RACE_END Rare RARITY_END At the end of your turn, restore 4 Health to your hero.
+Wee Spellstopper NAME_END 2 ATK_END 5 DEF_END 4 COST_END -1 DUR_END Minion TYPE_END Mage PLAYER_CLS_END NIL RACE_END Epic RARITY_END Adjacent minions can't be targeted by spells or Hero Powers.
+Whirling Blades NAME_END -1 ATK_END -1 DEF_END 1 COST_END -1 DUR_END Spell TYPE_END Neutral PLAYER_CLS_END NIL RACE_END NIL RARITY_END Give a minion +1 Attack.
+Whirling Zap-o-matic NAME_END 3 ATK_END 2 DEF_END 2 COST_END -1 DUR_END Minion TYPE_END Shaman PLAYER_CLS_END Mech RACE_END Common RARITY_END <b>Windfury</b>
+Anub'ar Ambusher NAME_END 5 ATK_END 5 DEF_END 4 COST_END -1 DUR_END Minion TYPE_END Rogue PLAYER_CLS_END NIL RACE_END Common RARITY_END <b>Deathrattle:</b> Return a random friendly minion to your hand.
+Avenge NAME_END -1 ATK_END -1 DEF_END 1 COST_END -1 DUR_END Spell TYPE_END Paladin PLAYER_CLS_END NIL RACE_END Common RARITY_END <b>Secret:</b> When one of your minions dies, give a random friendly minion +3/+2.
+Baron Rivendare NAME_END 1 ATK_END 7 DEF_END 4 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END NIL RACE_END Legendary RARITY_END Your minions trigger their <b>Deathrattles</b> twice.
+Dancing Swords NAME_END 4 ATK_END 4 DEF_END 3 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END NIL RACE_END Common RARITY_END <b>Deathrattle:</b> Your opponent draws a card.
+Dark Cultist NAME_END 3 ATK_END 4 DEF_END 3 COST_END -1 DUR_END Minion TYPE_END Priest PLAYER_CLS_END NIL RACE_END Common RARITY_END <b>Deathrattle:</b> Give a random friendly minion +3 Health.
+Duplicate NAME_END -1 ATK_END -1 DEF_END 3 COST_END -1 DUR_END Spell TYPE_END Mage PLAYER_CLS_END NIL RACE_END Common RARITY_END <b>Secret:</b> When a friendly minion dies, put 2 copies of it into your hand.
+Echoing Ooze NAME_END 1 ATK_END 2 DEF_END 2 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END NIL RACE_END Epic RARITY_END <b>Battlecry:</b> Summon an exact copy of this minion at the end of the turn.
+Feugen NAME_END 4 ATK_END 7 DEF_END 5 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END NIL RACE_END Legendary RARITY_END NIL
+Feugen NAME_END 4 ATK_END 7 DEF_END 5 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END NIL RACE_END Legendary RARITY_END <b>Deathrattle:</b> If Stalagg also died this game, summon Thaddius.
+Haunted Creeper NAME_END 1 ATK_END 2 DEF_END 2 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END Beast RACE_END Common RARITY_END <b>Deathrattle:</b> Summon two 1/1 Spectral Spiders.
+Kel'Thuzad NAME_END 6 ATK_END 8 DEF_END 8 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END NIL RACE_END Legendary RARITY_END At the end of each turn, summon all friendly minions that died this turn.
+Loatheb NAME_END 5 ATK_END 5 DEF_END 5 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END NIL RACE_END Legendary RARITY_END <b>Battlecry:</b> Enemy spells cost (5) more next turn.
+Mad Scientist NAME_END 2 ATK_END 2 DEF_END 2 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END NIL RACE_END Common RARITY_END <b>Deathrattle:</b> Put a <b>Secret</b> from your deck into the battlefield.
+Nerubian NAME_END 4 ATK_END 4 DEF_END 2 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END NIL RACE_END NIL RARITY_END NIL
+Nerubian NAME_END 3 ATK_END 1 DEF_END 2 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END NIL RACE_END NIL RARITY_END NIL
+Nerubian NAME_END 4 ATK_END 4 DEF_END 3 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END NIL RACE_END Rare RARITY_END NIL
+Nerubian Egg NAME_END 0 ATK_END 2 DEF_END 2 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END NIL RACE_END Rare RARITY_END <b>Deathrattle:</b> Summon a 4/4 Nerubian.
+Poison Seeds NAME_END -1 ATK_END -1 DEF_END 4 COST_END -1 DUR_END Spell TYPE_END Druid PLAYER_CLS_END NIL RACE_END Common RARITY_END Destroy all minions and summon 2/2 Treants to replace them.
+Reincarnate NAME_END -1 ATK_END -1 DEF_END 2 COST_END -1 DUR_END Spell TYPE_END Shaman PLAYER_CLS_END NIL RACE_END Common RARITY_END Destroy a minion, then return it to life with full Health.
+Shade of Naxxramas NAME_END 2 ATK_END 2 DEF_END 3 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END NIL RACE_END Epic RARITY_END <b>Stealth.</b> At the start of your turn, gain +1/+1.
+Slime NAME_END 1 ATK_END 2 DEF_END 1 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END NIL RACE_END NIL RARITY_END <b>Taunt</b>
+Spectral Spider NAME_END 1 ATK_END 1 DEF_END 1 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END NIL RACE_END NIL RARITY_END NIL
+Stalagg NAME_END 7 ATK_END 4 DEF_END 5 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END NIL RACE_END Legendary RARITY_END NIL
+Stalagg NAME_END 7 ATK_END 4 DEF_END 5 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END NIL RACE_END Legendary RARITY_END <b>Deathrattle:</b> If Feugen also died this game, summon Thaddius.
+Stoneskin Gargoyle NAME_END 1 ATK_END 4 DEF_END 3 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END NIL RACE_END Common RARITY_END At the start of your turn, restore this minion to full Health.
+Thaddius NAME_END 11 ATK_END 11 DEF_END 10 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END NIL RACE_END Legendary RARITY_END NIL
+Treant NAME_END 2 ATK_END 2 DEF_END 1 COST_END -1 DUR_END Minion TYPE_END Druid PLAYER_CLS_END NIL RACE_END NIL RARITY_END NIL
+Undertaker NAME_END 1 ATK_END 2 DEF_END 1 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END NIL RACE_END Common RARITY_END Whenever you summon a minion with <b>Deathrattle</b>, gain +1 Attack.
+Unstable Ghoul NAME_END 1 ATK_END 3 DEF_END 2 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END NIL RACE_END Common RARITY_END <b>Taunt</b>. <b>Deathrattle:</b> Deal 1 damage to all minions.
+Webspinner NAME_END 1 ATK_END 1 DEF_END 1 COST_END -1 DUR_END Minion TYPE_END Hunter PLAYER_CLS_END Beast RACE_END Common RARITY_END <b>Deathrattle:</b> Add a random Beast card to your hand.
+Zombie Chow NAME_END 2 ATK_END 3 DEF_END 1 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END NIL RACE_END Common RARITY_END <b>Deathrattle:</b> Restore 5 Health to the enemy hero.
+Abomination NAME_END 4 ATK_END 4 DEF_END 5 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END NIL RACE_END Rare RARITY_END <b>Taunt</b>. <b>Deathrattle:</b> Deal 2 damage to ALL characters.
+Abusive Sergeant NAME_END 2 ATK_END 1 DEF_END 1 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END NIL RACE_END Common RARITY_END <b>Battlecry:</b> Give a minion +2 Attack this turn.
+Acolyte of Pain NAME_END 1 ATK_END 3 DEF_END 3 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END NIL RACE_END Common RARITY_END Whenever this minion takes damage, draw a card.
+Al'Akir the Windlord NAME_END 3 ATK_END 5 DEF_END 8 COST_END -1 DUR_END Minion TYPE_END Shaman PLAYER_CLS_END NIL RACE_END Legendary RARITY_END <b>Windfury, Charge, Divine Shield, Taunt</b>
+Alarm-o-Bot NAME_END 0 ATK_END 3 DEF_END 3 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END Mech RACE_END Rare RARITY_END At the start of your turn, swap this minion with a random one in your hand.
+Aldor Peacekeeper NAME_END 3 ATK_END 3 DEF_END 3 COST_END -1 DUR_END Minion TYPE_END Paladin PLAYER_CLS_END NIL RACE_END Rare RARITY_END <b>Battlecry:</b> Change an enemy minion's Attack to 1.
+Ancestral Spirit NAME_END -1 ATK_END -1 DEF_END 2 COST_END -1 DUR_END Spell TYPE_END Shaman PLAYER_CLS_END NIL RACE_END Rare RARITY_END Give a minion "<b>Deathrattle:</b> Resummon this minion."
+Ancient Brewmaster NAME_END 5 ATK_END 4 DEF_END 4 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END NIL RACE_END Common RARITY_END <b>Battlecry:</b> Return a friendly minion from the battlefield to your hand.
+Ancient Mage NAME_END 2 ATK_END 5 DEF_END 4 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END NIL RACE_END Rare RARITY_END <b>Battlecry:</b> Give adjacent minions <b>Spell Damage +1</b>.
+Ancient Watcher NAME_END 4 ATK_END 5 DEF_END 2 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END NIL RACE_END Rare RARITY_END Can't attack.
+Ancient of Lore NAME_END 5 ATK_END 5 DEF_END 7 COST_END -1 DUR_END Minion TYPE_END Druid PLAYER_CLS_END NIL RACE_END Epic RARITY_END <b>Choose One -</b> Draw 2 cards; or Restore 5 Health.
+Ancient of War NAME_END 5 ATK_END 5 DEF_END 7 COST_END -1 DUR_END Minion TYPE_END Druid PLAYER_CLS_END NIL RACE_END Epic RARITY_END <b>Choose One</b> - NL +5 Attack; or +5 Health and <b>Taunt</b>.
+Angry Chicken NAME_END 1 ATK_END 1 DEF_END 1 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END Beast RACE_END Rare RARITY_END <b>Enrage:</b> +5 Attack.
+Arathi Weaponsmith NAME_END 3 ATK_END 3 DEF_END 4 COST_END -1 DUR_END Minion TYPE_END Warrior PLAYER_CLS_END NIL RACE_END Common RARITY_END <b>Battlecry:</b> Equip a 2/2 weapon.
+Argent Commander NAME_END 4 ATK_END 2 DEF_END 6 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END NIL RACE_END Rare RARITY_END <b>Charge</b> NL <b>Divine Shield</b>
+Argent Protector NAME_END 2 ATK_END 2 DEF_END 2 COST_END -1 DUR_END Minion TYPE_END Paladin PLAYER_CLS_END NIL RACE_END Common RARITY_END <b>Battlecry:</b> Give a friendly minion <b>Divine Shield</b>.
+Argent Squire NAME_END 1 ATK_END 1 DEF_END 1 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END NIL RACE_END Common RARITY_END <b>Divine Shield</b>
+Armorsmith NAME_END 1 ATK_END 4 DEF_END 2 COST_END -1 DUR_END Minion TYPE_END Warrior PLAYER_CLS_END NIL RACE_END Rare RARITY_END Whenever a friendly minion takes damage, gain 1 Armor.
+Ashbringer NAME_END 5 ATK_END -1 DEF_END 5 COST_END 3 DUR_END Weapon TYPE_END Paladin PLAYER_CLS_END NIL RACE_END Legendary RARITY_END NIL
+Auchenai Soulpriest NAME_END 3 ATK_END 5 DEF_END 4 COST_END -1 DUR_END Minion TYPE_END Priest PLAYER_CLS_END NIL RACE_END Rare RARITY_END Your cards and powers that restore Health now deal damage instead.
+Avenging Wrath NAME_END -1 ATK_END -1 DEF_END 6 COST_END -1 DUR_END Spell TYPE_END Paladin PLAYER_CLS_END NIL RACE_END Epic RARITY_END Deal $8 damage randomly split among all enemies.
+Azure Drake NAME_END 4 ATK_END 4 DEF_END 5 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END Dragon RACE_END Rare RARITY_END <b>Spell Damage +1</b>. <b>Battlecry:</b> Draw a card.
+Bane of Doom NAME_END -1 ATK_END -1 DEF_END 5 COST_END -1 DUR_END Spell TYPE_END Warlock PLAYER_CLS_END NIL RACE_END Epic RARITY_END Deal $2 damage to a character. If that kills it, summon a random Demon.
+Baron Geddon NAME_END 7 ATK_END 5 DEF_END 7 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END NIL RACE_END Legendary RARITY_END At the end of your turn, deal 2 damage to ALL other characters.
+Battle Axe NAME_END 2 ATK_END -1 DEF_END 1 COST_END 2 DUR_END Weapon TYPE_END Warrior PLAYER_CLS_END NIL RACE_END NIL RARITY_END NIL
+Battle Rage NAME_END -1 ATK_END -1 DEF_END 2 COST_END -1 DUR_END Spell TYPE_END Warrior PLAYER_CLS_END NIL RACE_END Common RARITY_END Draw a card for each damaged friendly character.
+Bestial Wrath NAME_END -1 ATK_END -1 DEF_END 1 COST_END -1 DUR_END Spell TYPE_END Hunter PLAYER_CLS_END NIL RACE_END Epic RARITY_END Give a friendly Beast +2 Attack and <b>Immune</b> this turn.
+Betrayal NAME_END -1 ATK_END -1 DEF_END 2 COST_END -1 DUR_END Spell TYPE_END Rogue PLAYER_CLS_END NIL RACE_END Common RARITY_END Force an enemy minion to deal its damage to the minions next to it.
+Big Game Hunter NAME_END 4 ATK_END 2 DEF_END 3 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END NIL RACE_END Epic RARITY_END <b>Battlecry:</b> Destroy a minion with an Attack of 7 or more.
+Bite NAME_END -1 ATK_END -1 DEF_END 4 COST_END -1 DUR_END Spell TYPE_END Druid PLAYER_CLS_END NIL RACE_END Rare RARITY_END Give your hero +4 Attack this turn and 4 Armor.
+Blessing of Wisdom NAME_END -1 ATK_END -1 DEF_END 1 COST_END -1 DUR_END Spell TYPE_END Paladin PLAYER_CLS_END NIL RACE_END Common RARITY_END Choose a minion. Whenever it attacks, draw a card.
+Blizzard NAME_END -1 ATK_END -1 DEF_END 6 COST_END -1 DUR_END Spell TYPE_END Mage PLAYER_CLS_END NIL RACE_END Rare RARITY_END Deal $2 damage to all enemy minions and <b>Freeze</b> them.
+Blood Fury NAME_END 3 ATK_END -1 DEF_END 3 COST_END 8 DUR_END Weapon TYPE_END Warlock PLAYER_CLS_END NIL RACE_END NIL RARITY_END NIL
+Blood Imp NAME_END 0 ATK_END 1 DEF_END 1 COST_END -1 DUR_END Minion TYPE_END Warlock PLAYER_CLS_END Demon RACE_END Common RARITY_END <b>Stealth</b>. At the end of your turn, give another random friendly minion +1 Health.
+Blood Knight NAME_END 3 ATK_END 3 DEF_END 3 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END NIL RACE_END Epic RARITY_END <b>Battlecry:</b> All minions lose <b>Divine Shield</b>. Gain +3/+3 for each Shield lost.
+Bloodmage Thalnos NAME_END 1 ATK_END 1 DEF_END 2 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END NIL RACE_END Legendary RARITY_END <b>Spell Damage +1</b>. <b>Deathrattle:</b> Draw a card.
+Bloodsail Corsair NAME_END 1 ATK_END 2 DEF_END 1 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END Pirate RACE_END Rare RARITY_END <b>Battlecry:</b> Remove 1 Durability from your opponent's weapon.
+Bloodsail Raider NAME_END 2 ATK_END 3 DEF_END 2 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END Pirate RACE_END Common RARITY_END <b>Battlecry:</b> Gain Attack equal to the Attack of your weapon.
+Cairne Bloodhoof NAME_END 4 ATK_END 5 DEF_END 6 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END NIL RACE_END Legendary RARITY_END <b>Deathrattle:</b> Summon a 4/5 Baine Bloodhoof.
+Captain Greenskin NAME_END 5 ATK_END 4 DEF_END 5 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END Pirate RACE_END Legendary RARITY_END <b>Battlecry:</b> Give your weapon +1/+1.
+Cenarius NAME_END 5 ATK_END 8 DEF_END 9 COST_END -1 DUR_END Minion TYPE_END Druid PLAYER_CLS_END NIL RACE_END Legendary RARITY_END <b>Choose One</b> - Give your other minions +2/+2; or Summon two 2/2 Treants with <b>Taunt</b>.
+Circle of Healing NAME_END -1 ATK_END -1 DEF_END 0 COST_END -1 DUR_END Spell TYPE_END Priest PLAYER_CLS_END NIL RACE_END Common RARITY_END Restore #4 Health to ALL minions.
+Cold Blood NAME_END -1 ATK_END -1 DEF_END 1 COST_END -1 DUR_END Spell TYPE_END Rogue PLAYER_CLS_END NIL RACE_END Common RARITY_END Give a minion +2 Attack. <b>Combo:</b> +4 Attack instead.
+Coldlight Oracle NAME_END 2 ATK_END 2 DEF_END 3 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END Murloc RACE_END Rare RARITY_END <b>Battlecry:</b> Each player draws 2 cards.
+Coldlight Seer NAME_END 2 ATK_END 3 DEF_END 3 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END Murloc RACE_END Rare RARITY_END <b>Battlecry:</b> Give ALL other Murlocs +2 Health.
+Commanding Shout NAME_END -1 ATK_END -1 DEF_END 2 COST_END -1 DUR_END Spell TYPE_END Warrior PLAYER_CLS_END NIL RACE_END Rare RARITY_END Your minions can't be reduced below 1 Health this turn. Draw a card.
+Counterspell NAME_END -1 ATK_END -1 DEF_END 3 COST_END -1 DUR_END Spell TYPE_END Mage PLAYER_CLS_END NIL RACE_END Rare RARITY_END <b>Secret:</b> When your opponent casts a spell, <b>Counter</b> it.
+Crazed Alchemist NAME_END 2 ATK_END 2 DEF_END 2 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END NIL RACE_END Rare RARITY_END <b>Battlecry:</b> Swap the Attack and Health of a minion.
+Cruel Taskmaster NAME_END 2 ATK_END 2 DEF_END 2 COST_END -1 DUR_END Minion TYPE_END Warrior PLAYER_CLS_END NIL RACE_END Common RARITY_END <b>Battlecry:</b> Deal 1 damage to a minion and give it +2 Attack.
+Cult Master NAME_END 4 ATK_END 2 DEF_END 4 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END NIL RACE_END Common RARITY_END Whenever one of your other minions dies, draw a card.
+Damaged Golem NAME_END 2 ATK_END 1 DEF_END 1 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END Mech RACE_END Common RARITY_END NIL
+Dark Iron Dwarf NAME_END 4 ATK_END 4 DEF_END 4 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END NIL RACE_END Common RARITY_END <b>Battlecry:</b> Give a minion +2 Attack this turn.
+Deadly Shot NAME_END -1 ATK_END -1 DEF_END 3 COST_END -1 DUR_END Spell TYPE_END Hunter PLAYER_CLS_END NIL RACE_END Common RARITY_END Destroy a random enemy minion.
+Deathwing NAME_END 12 ATK_END 12 DEF_END 10 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END Dragon RACE_END Legendary RARITY_END <b>Battlecry:</b> Destroy all other minions and discard your hand.
+Defias Bandit NAME_END 2 ATK_END 1 DEF_END 1 COST_END -1 DUR_END Minion TYPE_END Rogue PLAYER_CLS_END NIL RACE_END NIL RARITY_END NIL
+Defias Ringleader NAME_END 2 ATK_END 2 DEF_END 2 COST_END -1 DUR_END Minion TYPE_END Rogue PLAYER_CLS_END NIL RACE_END Common RARITY_END <b>Combo:</b> Summon a 2/1 Defias Bandit.
+Demolisher NAME_END 1 ATK_END 4 DEF_END 3 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END Mech RACE_END Rare RARITY_END At the start of your turn, deal 2 damage to a random enemy.
+Demonfire NAME_END -1 ATK_END -1 DEF_END 2 COST_END -1 DUR_END Spell TYPE_END Warlock PLAYER_CLS_END NIL RACE_END Common RARITY_END Deal $2 damage to a minion. If it’s a friendly Demon, give it +2/+2 instead.
+Demonfire NAME_END -1 ATK_END -1 DEF_END 0 COST_END -1 DUR_END Enchantment TYPE_END Warlock PLAYER_CLS_END NIL RACE_END Common RARITY_END This Demon has +2/+2.
+Devilsaur NAME_END 5 ATK_END 5 DEF_END 5 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END Beast RACE_END Common RARITY_END NIL
+Dire Wolf Alpha NAME_END 2 ATK_END 2 DEF_END 2 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END Beast RACE_END Common RARITY_END Adjacent minions have +1 Attack.
+Divine Favor NAME_END -1 ATK_END -1 DEF_END 3 COST_END -1 DUR_END Spell TYPE_END Paladin PLAYER_CLS_END NIL RACE_END Rare RARITY_END Draw cards until you have as many in hand as your opponent.
+Doomsayer NAME_END 0 ATK_END 7 DEF_END 2 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END NIL RACE_END Epic RARITY_END At the start of your turn, destroy ALL minions.
+Dread Corsair NAME_END 3 ATK_END 3 DEF_END 4 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END Pirate RACE_END Common RARITY_END <b>Taunt.</b> Costs (1) less per Attack of your weapon.
+Dream NAME_END -1 ATK_END -1 DEF_END 0 COST_END -1 DUR_END Spell TYPE_END Dream PLAYER_CLS_END NIL RACE_END NIL RARITY_END Return a minion to its owner's hand.
+Druid of the Claw NAME_END 4 ATK_END 6 DEF_END 5 COST_END -1 DUR_END Minion TYPE_END Druid PLAYER_CLS_END Beast RACE_END Common RARITY_END <b>Taunt</b>
+Druid of the Claw NAME_END 4 ATK_END 4 DEF_END 5 COST_END -1 DUR_END Minion TYPE_END Druid PLAYER_CLS_END NIL RACE_END Common RARITY_END <b>Choose One -</b> <b>Charge</b>; or +2 Health and <b>Taunt</b>.
+Druid of the Claw NAME_END 4 ATK_END 4 DEF_END 5 COST_END -1 DUR_END Minion TYPE_END Druid PLAYER_CLS_END Beast RACE_END Common RARITY_END <b>Charge</b>
+Dust Devil NAME_END 3 ATK_END 1 DEF_END 1 COST_END -1 DUR_END Minion TYPE_END Shaman PLAYER_CLS_END NIL RACE_END Common RARITY_END <b>Windfury</b>. <b>Overload:</b> (2)
+Eaglehorn Bow NAME_END 3 ATK_END -1 DEF_END 3 COST_END 2 DUR_END Weapon TYPE_END Hunter PLAYER_CLS_END NIL RACE_END Rare RARITY_END Whenever a friendly <b>Secret</b> is revealed, gain +1 Durability.
+Earthen Ring Farseer NAME_END 3 ATK_END 3 DEF_END 3 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END NIL RACE_END Common RARITY_END <b>Battlecry:</b> Restore 3 Health.
+Edwin VanCleef NAME_END 2 ATK_END 2 DEF_END 3 COST_END -1 DUR_END Minion TYPE_END Rogue PLAYER_CLS_END NIL RACE_END Legendary RARITY_END <b>Combo:</b> Gain +2/+2 for each card played earlier this turn.
+Emerald Drake NAME_END 7 ATK_END 6 DEF_END 4 COST_END -1 DUR_END Minion TYPE_END Dream PLAYER_CLS_END Dragon RACE_END NIL RARITY_END NIL
+Emperor Cobra NAME_END 2 ATK_END 3 DEF_END 3 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END Beast RACE_END Rare RARITY_END Destroy any minion damaged by this minion.
+Equality NAME_END -1 ATK_END -1 DEF_END 2 COST_END -1 DUR_END Spell TYPE_END Paladin PLAYER_CLS_END NIL RACE_END Rare RARITY_END Change the Health of ALL minions to 1.
+Ethereal Arcanist NAME_END 3 ATK_END 3 DEF_END 4 COST_END -1 DUR_END Minion TYPE_END Mage PLAYER_CLS_END NIL RACE_END Rare RARITY_END If you control a <b>Secret</b> at the end of your turn, gain +2/+2.
+Eviscerate NAME_END -1 ATK_END -1 DEF_END 2 COST_END -1 DUR_END Spell TYPE_END Rogue PLAYER_CLS_END NIL RACE_END Common RARITY_END Deal $2 damage. <b>Combo:</b> Deal $4 damage instead.
+Explosive Shot NAME_END -1 ATK_END -1 DEF_END 5 COST_END -1 DUR_END Spell TYPE_END Hunter PLAYER_CLS_END NIL RACE_END Rare RARITY_END Deal $5 damage to a minion and $2 damage to adjacent ones.
+Faceless Manipulator NAME_END 3 ATK_END 3 DEF_END 5 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END NIL RACE_END Epic RARITY_END <b>Battlecry:</b> Choose a minion and become a copy of it.
+Faerie Dragon NAME_END 3 ATK_END 2 DEF_END 2 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END Dragon RACE_END Common RARITY_END Can't be targeted by spells or Hero Powers.
+Far Sight NAME_END -1 ATK_END -1 DEF_END 3 COST_END -1 DUR_END Spell TYPE_END Shaman PLAYER_CLS_END NIL RACE_END Epic RARITY_END Draw a card. That card costs (3) less.
+Felguard NAME_END 3 ATK_END 5 DEF_END 3 COST_END -1 DUR_END Minion TYPE_END Warlock PLAYER_CLS_END Demon RACE_END Rare RARITY_END <b>Taunt</b>. <b>Battlecry:</b> Destroy one of your Mana Crystals.
+Fen Creeper NAME_END 3 ATK_END 6 DEF_END 5 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END NIL RACE_END Common RARITY_END <b>Taunt</b>
+Feral Spirit NAME_END -1 ATK_END -1 DEF_END 3 COST_END -1 DUR_END Spell TYPE_END Shaman PLAYER_CLS_END NIL RACE_END Rare RARITY_END Summon two 2/3 Spirit Wolves with <b>Taunt</b>. <b>Overload:</b> (2)
+Finkle Einhorn NAME_END 3 ATK_END 3 DEF_END 2 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END NIL RACE_END Legendary RARITY_END NIL
+Flame Imp NAME_END 3 ATK_END 2 DEF_END 1 COST_END -1 DUR_END Minion TYPE_END Warlock PLAYER_CLS_END Demon RACE_END Common RARITY_END <b>Battlecry:</b> Deal 3 damage to your hero.
+Flesheating Ghoul NAME_END 2 ATK_END 3 DEF_END 3 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END NIL RACE_END Common RARITY_END Whenever a minion dies, gain +1 Attack.
+Force of Nature NAME_END -1 ATK_END -1 DEF_END 6 COST_END -1 DUR_END Spell TYPE_END Druid PLAYER_CLS_END NIL RACE_END Epic RARITY_END Summon three 2/2 Treants with <b>Charge</b> that die at the end of the turn.
+Forked Lightning NAME_END -1 ATK_END -1 DEF_END 1 COST_END -1 DUR_END Spell TYPE_END Shaman PLAYER_CLS_END NIL RACE_END Common RARITY_END Deal $2 damage to 2 random enemy minions. <b>Overload:</b> (2)
+Freezing Trap NAME_END -1 ATK_END -1 DEF_END 2 COST_END -1 DUR_END Spell TYPE_END Hunter PLAYER_CLS_END NIL RACE_END Common RARITY_END <b>Secret:</b> When an enemy minion attacks, return it to its owner's hand and it costs (2) more.
+Frost Elemental NAME_END 5 ATK_END 5 DEF_END 6 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END NIL RACE_END Common RARITY_END <b>Battlecry:</b> <b>Freeze</b> a character.
+Frothing Berserker NAME_END 2 ATK_END 4 DEF_END 3 COST_END -1 DUR_END Minion TYPE_END Warrior PLAYER_CLS_END NIL RACE_END Rare RARITY_END Whenever a minion takes damage, gain +1 Attack.
+Gadgetzan Auctioneer NAME_END 4 ATK_END 4 DEF_END 6 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END NIL RACE_END Rare RARITY_END Whenever you cast a spell, draw a card.
+Gladiator's Longbow NAME_END 5 ATK_END -1 DEF_END 7 COST_END 2 DUR_END Weapon TYPE_END Hunter PLAYER_CLS_END NIL RACE_END Epic RARITY_END Your hero is <b>Immune</b> while attacking.
+Grommash Hellscream NAME_END 4 ATK_END 9 DEF_END 8 COST_END -1 DUR_END Minion TYPE_END Warrior PLAYER_CLS_END NIL RACE_END Legendary RARITY_END <b>Charge</b> NL <b>Enrage:</b> +6 Attack
+Gruul NAME_END 7 ATK_END 7 DEF_END 8 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END NIL RACE_END Legendary RARITY_END At the end of each turn, gain +1/+1 .
+Harrison Jones NAME_END 5 ATK_END 4 DEF_END 5 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END NIL RACE_END Legendary RARITY_END <b>Battlecry:</b> Destroy your opponent's weapon and draw cards equal to its Durability.
+Harvest Golem NAME_END 2 ATK_END 3 DEF_END 3 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END Mech RACE_END Common RARITY_END <b>Deathrattle:</b> Summon a 2/1 Damaged Golem.
+Headcrack NAME_END -1 ATK_END -1 DEF_END 3 COST_END -1 DUR_END Spell TYPE_END Rogue PLAYER_CLS_END NIL RACE_END Rare RARITY_END Deal $2 damage to the enemy hero. <b>Combo:</b> Return this to your hand next turn.
+Heavy Axe NAME_END 1 ATK_END -1 DEF_END 1 COST_END 3 DUR_END Weapon TYPE_END Warrior PLAYER_CLS_END NIL RACE_END NIL RARITY_END NIL
+Hogger NAME_END 4 ATK_END 4 DEF_END 6 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END NIL RACE_END Legendary RARITY_END At the end of your turn, summon a 2/2 Gnoll with <b>Taunt</b>.
+Holy Fire NAME_END -1 ATK_END -1 DEF_END 6 COST_END -1 DUR_END Spell TYPE_END Priest PLAYER_CLS_END NIL RACE_END Rare RARITY_END Deal $5 damage. Restore #5 Health to your hero.
+Hungry Crab NAME_END 1 ATK_END 2 DEF_END 1 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END Beast RACE_END Epic RARITY_END <b>Battlecry:</b> Destroy a Murloc and gain +2/+2.
+Hyena NAME_END 2 ATK_END 2 DEF_END 2 COST_END -1 DUR_END Minion TYPE_END Hunter PLAYER_CLS_END Beast RACE_END Rare RARITY_END NIL
+Ice Barrier NAME_END -1 ATK_END -1 DEF_END 3 COST_END -1 DUR_END Spell TYPE_END Mage PLAYER_CLS_END NIL RACE_END Common RARITY_END <b>Secret:</b> When your hero is attacked, gain 8 Armor.
+Ice Block NAME_END -1 ATK_END -1 DEF_END 3 COST_END -1 DUR_END Spell TYPE_END Mage PLAYER_CLS_END NIL RACE_END Epic RARITY_END <b>Secret:</b> When your hero takes fatal damage, prevent it and become <b>Immune</b> this turn.
+Ice Lance NAME_END -1 ATK_END -1 DEF_END 1 COST_END -1 DUR_END Spell TYPE_END Mage PLAYER_CLS_END NIL RACE_END Common RARITY_END <b>Freeze</b> a character. If it was already <b>Frozen</b>, deal $4 damage instead.
+Illidan Stormrage NAME_END 7 ATK_END 5 DEF_END 6 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END Demon RACE_END Legendary RARITY_END Whenever you play a card, summon a 2/1 Flame of Azzinoth.
+Imp NAME_END 1 ATK_END 1 DEF_END 1 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END Demon RACE_END Rare RARITY_END NIL
+Imp Master NAME_END 1 ATK_END 5 DEF_END 3 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END NIL RACE_END Rare RARITY_END At the end of your turn, deal 1 damage to this minion and summon a 1/1 Imp.
+Inner Fire NAME_END -1 ATK_END -1 DEF_END 1 COST_END -1 DUR_END Spell TYPE_END Priest PLAYER_CLS_END NIL RACE_END Common RARITY_END Change a minion's Attack to be equal to its Health.
+Inner Rage NAME_END -1 ATK_END -1 DEF_END 0 COST_END -1 DUR_END Spell TYPE_END Warrior PLAYER_CLS_END NIL RACE_END Common RARITY_END Deal $1 damage to a minion and give it +2 Attack.
+Ironbeak Owl NAME_END 2 ATK_END 1 DEF_END 2 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END Beast RACE_END Common RARITY_END <b>Battlecry:</b> <b>Silence</b> a minion.
+Jungle Panther NAME_END 4 ATK_END 2 DEF_END 3 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END Beast RACE_END Common RARITY_END <b>Stealth</b>
+Keeper of the Grove NAME_END 2 ATK_END 4 DEF_END 4 COST_END -1 DUR_END Minion TYPE_END Druid PLAYER_CLS_END NIL RACE_END Rare RARITY_END <b>Choose One</b> - Deal 2 damage; or <b>Silence</b> a minion.
+Kidnapper NAME_END 5 ATK_END 3 DEF_END 6 COST_END -1 DUR_END Minion TYPE_END Rogue PLAYER_CLS_END NIL RACE_END Epic RARITY_END <b>Combo:</b> Return a minion to its owner's hand.
+King Krush NAME_END 8 ATK_END 8 DEF_END 9 COST_END -1 DUR_END Minion TYPE_END Hunter PLAYER_CLS_END Beast RACE_END Legendary RARITY_END <b>Charge</b>
+King Mukla NAME_END 5 ATK_END 5 DEF_END 3 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END Beast RACE_END Legendary RARITY_END <b>Battlecry:</b> Give your opponent 2 Bananas.
+Laughing Sister NAME_END 3 ATK_END 5 DEF_END 3 COST_END -1 DUR_END Minion TYPE_END Dream PLAYER_CLS_END NIL RACE_END NIL RARITY_END Can't be targeted by spells or Hero Powers.
+Lava Burst NAME_END -1 ATK_END -1 DEF_END 3 COST_END -1 DUR_END Spell TYPE_END Shaman PLAYER_CLS_END NIL RACE_END Rare RARITY_END Deal $5 damage. <b>Overload:</b> (2)
+Lay on Hands NAME_END -1 ATK_END -1 DEF_END 8 COST_END -1 DUR_END Spell TYPE_END Paladin PLAYER_CLS_END NIL RACE_END Epic RARITY_END Restore #8 Health. Draw 3 cards.
+Leeroy Jenkins NAME_END 6 ATK_END 2 DEF_END 5 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END NIL RACE_END Legendary RARITY_END <b>Charge</b>. <b>Battlecry:</b> Summon two 1/1 Whelps for your opponent.
+Leper Gnome NAME_END 2 ATK_END 1 DEF_END 1 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END NIL RACE_END Common RARITY_END <b>Deathrattle:</b> Deal 2 damage to the enemy hero.
+Lightning Bolt NAME_END -1 ATK_END -1 DEF_END 1 COST_END -1 DUR_END Spell TYPE_END Shaman PLAYER_CLS_END NIL RACE_END Common RARITY_END Deal $3 damage. <b>Overload:</b> (1)
+Lightning Storm NAME_END -1 ATK_END -1 DEF_END 3 COST_END -1 DUR_END Spell TYPE_END Shaman PLAYER_CLS_END NIL RACE_END Rare RARITY_END Deal $2-$3 damage to all enemy minions. <b>Overload:</b> (2)
+Lightspawn NAME_END 0 ATK_END 5 DEF_END 4 COST_END -1 DUR_END Minion TYPE_END Priest PLAYER_CLS_END NIL RACE_END Common RARITY_END This minion's Attack is always equal to its Health.
+Loot Hoarder NAME_END 2 ATK_END 1 DEF_END 2 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END NIL RACE_END Common RARITY_END <b>Deathrattle:</b> Draw a card.
+Lord Jaraxxus NAME_END 0 ATK_END 15 DEF_END 0 COST_END -1 DUR_END Hero TYPE_END Warlock PLAYER_CLS_END Demon RACE_END Legendary RARITY_END NIL
+Lord Jaraxxus NAME_END 3 ATK_END 15 DEF_END 9 COST_END -1 DUR_END Minion TYPE_END Warlock PLAYER_CLS_END Demon RACE_END Legendary RARITY_END <b>Battlecry:</b> Destroy your hero and replace it with Lord Jaraxxus.
+Lorewalker Cho NAME_END 0 ATK_END 4 DEF_END 2 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END NIL RACE_END Legendary RARITY_END Whenever a player casts a spell, put a copy into the other player’s hand.
+Mad Bomber NAME_END 3 ATK_END 2 DEF_END 2 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END NIL RACE_END Common RARITY_END <b>Battlecry:</b> Deal 3 damage randomly split between all other characters.
+Malygos NAME_END 4 ATK_END 12 DEF_END 9 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END Dragon RACE_END Legendary RARITY_END <b>Spell Damage +5</b>
+Mana Addict NAME_END 1 ATK_END 3 DEF_END 2 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END NIL RACE_END Rare RARITY_END Whenever you cast a spell, gain +2 Attack this turn.
+Mana Tide Totem NAME_END 0 ATK_END 3 DEF_END 3 COST_END -1 DUR_END Minion TYPE_END Shaman PLAYER_CLS_END Totem RACE_END Rare RARITY_END At the end of your turn, draw a card.
+Mark of Nature NAME_END -1 ATK_END -1 DEF_END 3 COST_END -1 DUR_END Spell TYPE_END Druid PLAYER_CLS_END NIL RACE_END Common RARITY_END <b>Choose One</b> - Give a minion +4 Attack; or +4 Health and <b>Taunt</b>.
+Mass Dispel NAME_END -1 ATK_END -1 DEF_END 4 COST_END -1 DUR_END Spell TYPE_END Priest PLAYER_CLS_END NIL RACE_END Rare RARITY_END <b>Silence</b> all enemy minions. Draw a card.
+Master Swordsmith NAME_END 1 ATK_END 3 DEF_END 2 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END NIL RACE_END Rare RARITY_END At the end of your turn, give another random friendly minion +1 Attack.
+Master of Disguise NAME_END 4 ATK_END 4 DEF_END 4 COST_END -1 DUR_END Minion TYPE_END Rogue PLAYER_CLS_END NIL RACE_END Rare RARITY_END <b>Battlecry:</b> Give a friendly minion <b>Stealth</b>.
+Millhouse Manastorm NAME_END 4 ATK_END 4 DEF_END 2 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END NIL RACE_END Legendary RARITY_END <b>Battlecry:</b> Enemy spells cost (0) next turn.
+Mind Control Tech NAME_END 3 ATK_END 3 DEF_END 3 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END NIL RACE_END Rare RARITY_END <b>Battlecry:</b> If your opponent has 4 or more minions, take control of one at random.
+Mindgames NAME_END -1 ATK_END -1 DEF_END 4 COST_END -1 DUR_END Spell TYPE_END Priest PLAYER_CLS_END NIL RACE_END Epic RARITY_END Put a copy of a random minion from your opponent's deck into the battlefield.
+Mirror Entity NAME_END -1 ATK_END -1 DEF_END 3 COST_END -1 DUR_END Spell TYPE_END Mage PLAYER_CLS_END NIL RACE_END Common RARITY_END <b>Secret:</b> When your opponent plays a minion, summon a copy of it.
+Molten Giant NAME_END 8 ATK_END 8 DEF_END 20 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END NIL RACE_END Epic RARITY_END Costs (1) less for each damage your hero has taken.
+Mortal Strike NAME_END -1 ATK_END -1 DEF_END 4 COST_END -1 DUR_END Spell TYPE_END Warrior PLAYER_CLS_END NIL RACE_END Rare RARITY_END Deal $4 damage. If you have 12 or less Health, deal $6 instead.
+Mountain Giant NAME_END 8 ATK_END 8 DEF_END 12 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END NIL RACE_END Epic RARITY_END Costs (1) less for each other card in your hand.
+Murloc Tidecaller NAME_END 1 ATK_END 2 DEF_END 1 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END Murloc RACE_END Rare RARITY_END Whenever a Murloc is summoned, gain +1 Attack.
+Murloc Warleader NAME_END 3 ATK_END 3 DEF_END 3 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END Murloc RACE_END Epic RARITY_END ALL other Murlocs have +2/+1.
+Nat Pagle NAME_END 0 ATK_END 4 DEF_END 2 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END NIL RACE_END Legendary RARITY_END At the start of your turn, you have a 50% chance to draw an extra card.
+Naturalize NAME_END -1 ATK_END -1 DEF_END 1 COST_END -1 DUR_END Spell TYPE_END Druid PLAYER_CLS_END NIL RACE_END Common RARITY_END Destroy a minion. Your opponent draws 2 cards.
+Nightmare NAME_END -1 ATK_END -1 DEF_END 0 COST_END -1 DUR_END Spell TYPE_END Dream PLAYER_CLS_END NIL RACE_END NIL RARITY_END Give a minion +5/+5. At the start of your next turn, destroy it.
+Nozdormu NAME_END 8 ATK_END 8 DEF_END 9 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END Dragon RACE_END Legendary RARITY_END Players only have 15 seconds to take their turns.
+Onyxia NAME_END 8 ATK_END 8 DEF_END 9 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END Dragon RACE_END Legendary RARITY_END <b>Battlecry:</b> Summon 1/1 Whelps until your side of the battlefield is full.
+Panther NAME_END 3 ATK_END 2 DEF_END 2 COST_END -1 DUR_END Minion TYPE_END Druid PLAYER_CLS_END Beast RACE_END Common RARITY_END NIL
+Patient Assassin NAME_END 1 ATK_END 1 DEF_END 2 COST_END -1 DUR_END Minion TYPE_END Rogue PLAYER_CLS_END NIL RACE_END Epic RARITY_END <b>Stealth</b>. Destroy any minion damaged by this minion.
+Perdition's Blade NAME_END 2 ATK_END -1 DEF_END 3 COST_END 2 DUR_END Weapon TYPE_END Rogue PLAYER_CLS_END NIL RACE_END Rare RARITY_END <b>Battlecry:</b> Deal 1 damage. <b>Combo:</b> Deal 2 instead.
+Pint-Sized Summoner NAME_END 2 ATK_END 2 DEF_END 2 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END NIL RACE_END Rare RARITY_END The first minion you play each turn costs (1) less.
+Pit Lord NAME_END 5 ATK_END 6 DEF_END 4 COST_END -1 DUR_END Minion TYPE_END Warlock PLAYER_CLS_END Demon RACE_END Epic RARITY_END <b>Battlecry:</b> Deal 5 damage to your hero.
+Power Overwhelming NAME_END -1 ATK_END -1 DEF_END 1 COST_END -1 DUR_END Spell TYPE_END Warlock PLAYER_CLS_END NIL RACE_END Common RARITY_END Give a friendly minion +4/+4 until end of turn. Then, it dies. Horribly.
+Priestess of Elune NAME_END 5 ATK_END 4 DEF_END 6 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END NIL RACE_END Common RARITY_END <b>Battlecry:</b> Restore 4 Health to your hero.
+Prophet Velen NAME_END 7 ATK_END 7 DEF_END 7 COST_END -1 DUR_END Minion TYPE_END Priest PLAYER_CLS_END NIL RACE_END Legendary RARITY_END Double the damage and healing of your spells and Hero Power.
+Pyroblast NAME_END -1 ATK_END -1 DEF_END 10 COST_END -1 DUR_END Spell TYPE_END Mage PLAYER_CLS_END NIL RACE_END Epic RARITY_END Deal $10 damage.
+Questing Adventurer NAME_END 2 ATK_END 2 DEF_END 3 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END NIL RACE_END Rare RARITY_END Whenever you play a card, gain +1/+1.
+Raging Worgen NAME_END 3 ATK_END 3 DEF_END 3 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END NIL RACE_END Common RARITY_END <b>Enrage:</b> <b>Windfury</b> and +1 Attack
+Ragnaros the Firelord NAME_END 8 ATK_END 8 DEF_END 8 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END NIL RACE_END Legendary RARITY_END Can't attack. At the end of your turn, deal 8 damage to a random enemy.
+Rampage NAME_END -1 ATK_END -1 DEF_END 2 COST_END -1 DUR_END Spell TYPE_END Warrior PLAYER_CLS_END NIL RACE_END Common RARITY_END Give a damaged minion +3/+3.
+Ravenholdt Assassin NAME_END 7 ATK_END 5 DEF_END 7 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END NIL RACE_END Rare RARITY_END <b>Stealth</b>
+SI:7 Agent NAME_END 3 ATK_END 3 DEF_END 3 COST_END -1 DUR_END Minion TYPE_END Rogue PLAYER_CLS_END NIL RACE_END Rare RARITY_END <b>Combo:</b> Deal 2 damage.
+Savagery NAME_END -1 ATK_END -1 DEF_END 1 COST_END -1 DUR_END Spell TYPE_END Druid PLAYER_CLS_END NIL RACE_END Rare RARITY_END Deal damage equal to your hero's Attack to a minion.
+Savannah Highmane NAME_END 6 ATK_END 5 DEF_END 6 COST_END -1 DUR_END Minion TYPE_END Hunter PLAYER_CLS_END Beast RACE_END Rare RARITY_END <b>Deathrattle:</b> Summon two 2/2 Hyenas.
+Scarlet Crusader NAME_END 3 ATK_END 1 DEF_END 3 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END NIL RACE_END Common RARITY_END <b>Divine Shield</b>
+Scavenging Hyena NAME_END 2 ATK_END 2 DEF_END 2 COST_END -1 DUR_END Minion TYPE_END Hunter PLAYER_CLS_END Beast RACE_END Common RARITY_END Whenever a friendly Beast dies, gain +2/+1.
+Sea Giant NAME_END 8 ATK_END 8 DEF_END 10 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END NIL RACE_END Epic RARITY_END Costs (1) less for each other minion on the battlefield.
+Secretkeeper NAME_END 1 ATK_END 2 DEF_END 1 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END NIL RACE_END Rare RARITY_END Whenever a <b>Secret</b> is played, gain +1/+1.
+Sense Demons NAME_END -1 ATK_END -1 DEF_END 3 COST_END -1 DUR_END Spell TYPE_END Warlock PLAYER_CLS_END NIL RACE_END Common RARITY_END Put 2 random Demons from your deck into your hand.
+Shadowflame NAME_END -1 ATK_END -1 DEF_END 4 COST_END -1 DUR_END Spell TYPE_END Warlock PLAYER_CLS_END NIL RACE_END Rare RARITY_END Destroy a friendly minion and deal its Attack damage to all enemy minions.
+Shadowform NAME_END -1 ATK_END -1 DEF_END 3 COST_END -1 DUR_END Spell TYPE_END Priest PLAYER_CLS_END NIL RACE_END Epic RARITY_END Your Hero Power becomes 'Deal 2 damage'. If already in Shadowform: 3 damage.
+Shadowstep NAME_END -1 ATK_END -1 DEF_END 0 COST_END -1 DUR_END Spell TYPE_END Rogue PLAYER_CLS_END NIL RACE_END Common RARITY_END Return a friendly minion to your hand. It costs (2) less.
+Shield Slam NAME_END -1 ATK_END -1 DEF_END 1 COST_END -1 DUR_END Spell TYPE_END Warrior PLAYER_CLS_END NIL RACE_END Epic RARITY_END Deal 1 damage to a minion for each Armor you have.
+Shieldbearer NAME_END 0 ATK_END 4 DEF_END 1 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END NIL RACE_END Common RARITY_END <b>Taunt</b>
+Silence NAME_END -1 ATK_END -1 DEF_END 0 COST_END -1 DUR_END Spell TYPE_END Priest PLAYER_CLS_END NIL RACE_END Common RARITY_END <b>Silence</b> a minion.
+Silver Hand Knight NAME_END 4 ATK_END 4 DEF_END 5 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END NIL RACE_END Common RARITY_END <b>Battlecry:</b> Summon a 2/2 Squire.
+Silvermoon Guardian NAME_END 3 ATK_END 3 DEF_END 4 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END NIL RACE_END Common RARITY_END <b>Divine Shield</b>
+Snake NAME_END 1 ATK_END 1 DEF_END 0 COST_END -1 DUR_END Minion TYPE_END Hunter PLAYER_CLS_END Beast RACE_END Common RARITY_END NIL
+Snake Trap NAME_END -1 ATK_END -1 DEF_END 2 COST_END -1 DUR_END Spell TYPE_END Hunter PLAYER_CLS_END NIL RACE_END Epic RARITY_END <b>Secret:</b> When one of your minions is attacked, summon three 1/1 Snakes.
+Snipe NAME_END -1 ATK_END -1 DEF_END 2 COST_END -1 DUR_END Spell TYPE_END Hunter PLAYER_CLS_END NIL RACE_END Common RARITY_END <b>Secret:</b> When your opponent plays a minion, deal $4 damage to it.
+Sorcerer's Apprentice NAME_END 3 ATK_END 2 DEF_END 2 COST_END -1 DUR_END Minion TYPE_END Mage PLAYER_CLS_END NIL RACE_END Common RARITY_END Your spells cost (1) less.
+Soul of the Forest NAME_END -1 ATK_END -1 DEF_END 4 COST_END -1 DUR_END Spell TYPE_END Druid PLAYER_CLS_END NIL RACE_END Common RARITY_END Give your minions "<b>Deathrattle:</b> Summon a 2/2 Treant."
+Southsea Captain NAME_END 3 ATK_END 3 DEF_END 3 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END Pirate RACE_END Epic RARITY_END Your other Pirates have +1/+1.
+Southsea Deckhand NAME_END 2 ATK_END 1 DEF_END 1 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END Pirate RACE_END Common RARITY_END Has <b>Charge</b> while you have a weapon equipped.
+Spellbender NAME_END -1 ATK_END -1 DEF_END 3 COST_END -1 DUR_END Spell TYPE_END Mage PLAYER_CLS_END NIL RACE_END Epic RARITY_END <b>Secret:</b> When an enemy casts a spell on a minion, summon a 1/3 as the new target.
+Spirit Wolf NAME_END 2 ATK_END 3 DEF_END 2 COST_END -1 DUR_END Minion TYPE_END Shaman PLAYER_CLS_END NIL RACE_END Rare RARITY_END <b>Taunt</b>
+Spiteful Smith NAME_END 4 ATK_END 6 DEF_END 5 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END NIL RACE_END Common RARITY_END <b>Enrage:</b> Your weapon has +2 Attack.
+Squire NAME_END 2 ATK_END 2 DEF_END 1 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END NIL RACE_END Common RARITY_END NIL
+Squirrel NAME_END 1 ATK_END 1 DEF_END 1 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END Beast RACE_END Common RARITY_END NIL
+Stampeding Kodo NAME_END 3 ATK_END 5 DEF_END 5 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END Beast RACE_END Rare RARITY_END <b>Battlecry:</b> Destroy a random enemy minion with 2 or less Attack.
+Starfall NAME_END -1 ATK_END -1 DEF_END 5 COST_END -1 DUR_END Spell TYPE_END Druid PLAYER_CLS_END NIL RACE_END Rare RARITY_END <b>Choose One -</b> Deal $5 damage to a minion; or $2 damage to all enemy minions.
+Stormforged Axe NAME_END 2 ATK_END -1 DEF_END 2 COST_END 3 DUR_END Weapon TYPE_END Shaman PLAYER_CLS_END NIL RACE_END Common RARITY_END <b>Overload:</b> (1)
+Stranglethorn Tiger NAME_END 5 ATK_END 5 DEF_END 5 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END Beast RACE_END Common RARITY_END <b>Stealth</b>
+Sunwalker NAME_END 4 ATK_END 5 DEF_END 6 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END NIL RACE_END Rare RARITY_END <b>Taunt</b> NL <b>Divine Shield</b>
+Sword of Justice NAME_END 1 ATK_END -1 DEF_END 3 COST_END 5 DUR_END Weapon TYPE_END Paladin PLAYER_CLS_END NIL RACE_END Epic RARITY_END Whenever you summon a minion, give it +1/+1 and this loses 1 Durability.
+Sylvanas Windrunner NAME_END 5 ATK_END 5 DEF_END 6 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END NIL RACE_END Legendary RARITY_END <b>Deathrattle:</b> Take control of a random enemy minion.
+Tauren Warrior NAME_END 2 ATK_END 3 DEF_END 3 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END NIL RACE_END Common RARITY_END <b>Taunt</b>. <b>Enrage:</b> +3 Attack
+Temple Enforcer NAME_END 6 ATK_END 6 DEF_END 6 COST_END -1 DUR_END Minion TYPE_END Priest PLAYER_CLS_END NIL RACE_END Common RARITY_END <b>Battlecry:</b> Give a friendly minion +3 Health.
+The Beast NAME_END 9 ATK_END 7 DEF_END 6 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END Beast RACE_END Legendary RARITY_END <b>Deathrattle:</b> Summon a 3/3 Finkle Einhorn for your opponent.
+The Black Knight NAME_END 4 ATK_END 5 DEF_END 6 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END NIL RACE_END Legendary RARITY_END <b>Battlecry:</b> Destroy an enemy minion with <b>Taunt</b>.
+Thoughtsteal NAME_END -1 ATK_END -1 DEF_END 3 COST_END -1 DUR_END Spell TYPE_END Priest PLAYER_CLS_END NIL RACE_END Common RARITY_END Copy 2 cards from your opponent's deck and put them into your hand.
+Tirion Fordring NAME_END 6 ATK_END 6 DEF_END 8 COST_END -1 DUR_END Minion TYPE_END Paladin PLAYER_CLS_END NIL RACE_END Legendary RARITY_END <b>Divine Shield</b>. <b>Taunt</b>. <b>Deathrattle:</b> Equip a 5/3 Ashbringer.
+Treant NAME_END 2 ATK_END 2 DEF_END 1 COST_END -1 DUR_END Minion TYPE_END Druid PLAYER_CLS_END NIL RACE_END Common RARITY_END <b>Charge</b>. At the end of the turn, destroy this minion.
+Treant NAME_END 2 ATK_END 2 DEF_END 1 COST_END -1 DUR_END Minion TYPE_END Druid PLAYER_CLS_END NIL RACE_END NIL RARITY_END NIL
+Treant NAME_END 2 ATK_END 2 DEF_END 1 COST_END -1 DUR_END Minion TYPE_END Druid PLAYER_CLS_END NIL RACE_END NIL RARITY_END <b>Taunt</b>
+Twilight Drake NAME_END 4 ATK_END 1 DEF_END 4 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END Dragon RACE_END Rare RARITY_END <b>Battlecry:</b> Gain +1 Health for each card in your hand.
+Twisting Nether NAME_END -1 ATK_END -1 DEF_END 8 COST_END -1 DUR_END Spell TYPE_END Warlock PLAYER_CLS_END NIL RACE_END Epic RARITY_END Destroy all minions.
+Unbound Elemental NAME_END 2 ATK_END 4 DEF_END 3 COST_END -1 DUR_END Minion TYPE_END Shaman PLAYER_CLS_END NIL RACE_END Common RARITY_END Whenever you play a card with <b>Overload</b>, gain +1/+1.
+Unleash the Hounds NAME_END -1 ATK_END -1 DEF_END 3 COST_END -1 DUR_END Spell TYPE_END Hunter PLAYER_CLS_END NIL RACE_END Common RARITY_END For each enemy minion, summon a 1/1 Hound with <b>Charge</b>.
+Venture Co. Mercenary NAME_END 7 ATK_END 6 DEF_END 5 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END NIL RACE_END Common RARITY_END Your minions cost (3) more.
+Violet Apprentice NAME_END 1 ATK_END 1 DEF_END 0 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END NIL RACE_END NIL RARITY_END NIL
+Violet Teacher NAME_END 3 ATK_END 5 DEF_END 4 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END NIL RACE_END Rare RARITY_END Whenever you cast a spell, summon a 1/1 Violet Apprentice.
+Void Terror NAME_END 3 ATK_END 3 DEF_END 3 COST_END -1 DUR_END Minion TYPE_END Warlock PLAYER_CLS_END Demon RACE_END Rare RARITY_END <b>Battlecry:</b> Destroy the minions on either side of this minion and gain their Attack and Health.
+Whelp NAME_END 1 ATK_END 1 DEF_END 1 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END Dragon RACE_END NIL RARITY_END NIL
+Whelp NAME_END 1 ATK_END 1 DEF_END 1 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END Dragon RACE_END NIL RARITY_END NIL
+Wild Pyromancer NAME_END 3 ATK_END 2 DEF_END 2 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END NIL RACE_END Rare RARITY_END After you cast a spell, deal 1 damage to ALL minions.
+Windfury Harpy NAME_END 4 ATK_END 5 DEF_END 6 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END NIL RACE_END Common RARITY_END <b>Windfury</b>
+Worthless Imp NAME_END 1 ATK_END 1 DEF_END 1 COST_END -1 DUR_END Minion TYPE_END Warlock PLAYER_CLS_END Demon RACE_END Common RARITY_END <i>You are out of demons! At least there are always imps...</i>
+Wrath NAME_END -1 ATK_END -1 DEF_END 2 COST_END -1 DUR_END Spell TYPE_END Druid PLAYER_CLS_END NIL RACE_END Common RARITY_END <b>Choose One</b> - Deal $3 damage to a minion; or $1 damage and draw a card.
+Young Dragonhawk NAME_END 1 ATK_END 1 DEF_END 1 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END Beast RACE_END Common RARITY_END <b>Windfury</b>
+Young Priestess NAME_END 2 ATK_END 1 DEF_END 1 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END NIL RACE_END Rare RARITY_END At the end of your turn, give another random friendly minion +1 Health.
+Youthful Brewmaster NAME_END 3 ATK_END 2 DEF_END 2 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END NIL RACE_END Common RARITY_END <b>Battlecry:</b> Return a friendly minion from the battlefield to your hand.
+Ysera NAME_END 4 ATK_END 12 DEF_END 9 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END Dragon RACE_END Legendary RARITY_END At the end of your turn, add a Dream Card to your hand.
+Ysera Awakens NAME_END -1 ATK_END -1 DEF_END 2 COST_END -1 DUR_END Spell TYPE_END Dream PLAYER_CLS_END NIL RACE_END NIL RARITY_END Deal $5 damage to all characters except Ysera.
+Axe Flinger NAME_END 2 ATK_END 5 DEF_END 4 COST_END -1 DUR_END Minion TYPE_END Warrior PLAYER_CLS_END NIL RACE_END Common RARITY_END Whenever this minion takes damage, deal 2 damage to the enemy hero.
+Blackwing Technician NAME_END 2 ATK_END 4 DEF_END 3 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END NIL RACE_END Common RARITY_END <b>Battlecry:</b> If you're holding a Dragon, gain +1/+1.
+Chromaggus NAME_END 6 ATK_END 8 DEF_END 8 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END Dragon RACE_END Legendary RARITY_END Whenever you draw a card, put another copy into your hand.
+Core Rager NAME_END 4 ATK_END 4 DEF_END 4 COST_END -1 DUR_END Minion TYPE_END Hunter PLAYER_CLS_END Beast RACE_END Rare RARITY_END <b>Battlecry:</b> If your hand is empty, gain +3/+3.
+Dark Iron Skulker NAME_END 4 ATK_END 3 DEF_END 5 COST_END -1 DUR_END Minion TYPE_END Rogue PLAYER_CLS_END NIL RACE_END Rare RARITY_END <b>Battlecry:</b> Deal 2 damage to all undamaged enemy minions.
+Demonwrath NAME_END -1 ATK_END -1 DEF_END 3 COST_END -1 DUR_END Spell TYPE_END Warlock PLAYER_CLS_END NIL RACE_END Rare RARITY_END Deal $2 damage to all non-Demon minions.
+Dragon Consort NAME_END 5 ATK_END 5 DEF_END 5 COST_END -1 DUR_END Minion TYPE_END Paladin PLAYER_CLS_END Dragon RACE_END Rare RARITY_END <b>Battlecry:</b> The next Dragon you play costs (2) less.
+Dragon Egg NAME_END 0 ATK_END 2 DEF_END 1 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END NIL RACE_END Rare RARITY_END Whenever this minion takes damage, summon a 2/1 Whelp.
+Dragon's Breath NAME_END -1 ATK_END -1 DEF_END 5 COST_END -1 DUR_END Spell TYPE_END Mage PLAYER_CLS_END NIL RACE_END Common RARITY_END Deal $4 damage. Costs (1) less for each minion that died this turn.
+Druid of the Flame NAME_END 5 ATK_END 2 DEF_END 3 COST_END -1 DUR_END Minion TYPE_END Druid PLAYER_CLS_END Beast RACE_END Common RARITY_END NIL
+Druid of the Flame NAME_END 2 ATK_END 2 DEF_END 3 COST_END -1 DUR_END Minion TYPE_END Druid PLAYER_CLS_END NIL RACE_END Common RARITY_END <b>Choose One</b> - Transform into a 5/2 minion; or a 2/5 minion.
+Druid of the Flame NAME_END 2 ATK_END 5 DEF_END 3 COST_END -1 DUR_END Minion TYPE_END Druid PLAYER_CLS_END Beast RACE_END Common RARITY_END NIL
+Emperor Thaurissan NAME_END 5 ATK_END 5 DEF_END 6 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END NIL RACE_END Legendary RARITY_END At the end of your turn, reduce the Cost of cards in your hand by (1).
+Fireguard Destroyer NAME_END 3 ATK_END 6 DEF_END 4 COST_END -1 DUR_END Minion TYPE_END Shaman PLAYER_CLS_END NIL RACE_END Common RARITY_END <b>Battlecry:</b> Gain 1-4 Attack. <b>Overload:</b> (1)
+Flamewaker NAME_END 2 ATK_END 4 DEF_END 3 COST_END -1 DUR_END Minion TYPE_END Mage PLAYER_CLS_END NIL RACE_END Rare RARITY_END After you cast a spell, deal 2 damage randomly split among all enemies.
+Gang Up NAME_END -1 ATK_END -1 DEF_END 2 COST_END -1 DUR_END Spell TYPE_END Rogue PLAYER_CLS_END NIL RACE_END Common RARITY_END Choose a minion. Shuffle 3 copies of it into your deck.
+Grim Patron NAME_END 3 ATK_END 3 DEF_END 5 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END NIL RACE_END Rare RARITY_END Whenever this minion survives damage, summon another Grim Patron.
+Imp Gang Boss NAME_END 2 ATK_END 4 DEF_END 3 COST_END -1 DUR_END Minion TYPE_END Warlock PLAYER_CLS_END Demon RACE_END Common RARITY_END Whenever this minion takes damage, summon a 1/1 Imp.
+Lava Shock NAME_END -1 ATK_END -1 DEF_END 2 COST_END -1 DUR_END Spell TYPE_END Shaman PLAYER_CLS_END NIL RACE_END Rare RARITY_END Deal $2 damage. NL Unlock your <b>Overloaded</b> Mana Crystals.
+Majordomo Executus NAME_END 9 ATK_END 7 DEF_END 9 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END NIL RACE_END Legendary RARITY_END <b>Deathrattle:</b> Replace your hero with Ragnaros, the Firelord.
+Nefarian NAME_END 8 ATK_END 8 DEF_END 9 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END Dragon RACE_END Legendary RARITY_END <b>Battlecry:</b> Add 2 random spells to your hand <i>(from your opponent's class)</i>.
+Quick Shot NAME_END -1 ATK_END -1 DEF_END 2 COST_END -1 DUR_END Spell TYPE_END Hunter PLAYER_CLS_END NIL RACE_END Common RARITY_END Deal $3 damage. NL If your hand is empty, draw a card.
+Rend Blackhand NAME_END 8 ATK_END 4 DEF_END 7 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END NIL RACE_END Legendary RARITY_END <b>Battlecry:</b> If you're holding a Dragon, destroy a <b>Legendary</b> minion.
+Resurrect NAME_END -1 ATK_END -1 DEF_END 2 COST_END -1 DUR_END Spell TYPE_END Priest PLAYER_CLS_END NIL RACE_END Rare RARITY_END Summon a random friendly minion that died this game.
+Revenge NAME_END -1 ATK_END -1 DEF_END 2 COST_END -1 DUR_END Spell TYPE_END Warrior PLAYER_CLS_END NIL RACE_END Rare RARITY_END Deal $1 damage to all minions. If you have 12 or less Health, deal $3 damage instead.
+Volcanic Drake NAME_END 6 ATK_END 4 DEF_END 6 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END Dragon RACE_END Common RARITY_END Costs (1) less for each minion that died this turn.
+Volcanic Lumberer NAME_END 7 ATK_END 8 DEF_END 9 COST_END -1 DUR_END Minion TYPE_END Druid PLAYER_CLS_END NIL RACE_END Rare RARITY_END <b>Taunt</b> NL Costs (1) less for each minion that died this turn.
+Whelp NAME_END 1 ATK_END 1 DEF_END 1 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END Dragon RACE_END NIL RARITY_END NIL
+Whelp NAME_END 1 ATK_END 1 DEF_END 1 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END NIL RACE_END NIL RARITY_END NIL
+Whelp NAME_END 2 ATK_END 2 DEF_END 1 COST_END -1 DUR_END Minion TYPE_END Neutral PLAYER_CLS_END Dragon RACE_END NIL RARITY_END NIL
